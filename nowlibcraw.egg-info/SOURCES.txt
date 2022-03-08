@@ -1,0 +1,12 @@
+pyproject.toml
+setup.cfg
+setup.py
+nowlibcraw/__init__.py
+nowlibcraw/main.py
+nowlibcraw/py.typed
+nowlibcraw.egg-info/PKG-INFO
+nowlibcraw.egg-info/SOURCES.txt
+nowlibcraw.egg-info/dependency_links.txt
+nowlibcraw.egg-info/entry_points.txt
+nowlibcraw.egg-info/requires.txt
+nowlibcraw.egg-info/top_level.txt
