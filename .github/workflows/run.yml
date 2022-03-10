@@ -30,7 +30,7 @@ jobs:
         pip install ".[dev]"
     - name: Run nowlibcraw
       run: |
-        nowlibcraw
+        nowlibcraw -t
     - name: Commit
       run: |
         git add .
