@@ -110,7 +110,7 @@ def main() -> None:
         T = TulipsGetNewResource(args.url, source_path=args.source_dir)
     else:
         raise ValueError("not implemented")
-    sources = T.get()
+    sources = T.get(headless=args.show_browser)
     if args.tweet:
         P = PostTweet(keys=keys, tweet_log_path=args.log_dir)
         P.tweet(sources)
