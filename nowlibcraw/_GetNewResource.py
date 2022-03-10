@@ -12,7 +12,7 @@ class GetNewResource(metaclass=ABCMeta):
         pass
 
     @abstractmethod
-    def get(self,  headless: bool) -> List[BookData]:
+    def get(self, headless: bool) -> List[BookData]:
         pass
 
     @abstractmethod
@@ -20,11 +20,11 @@ class GetNewResource(metaclass=ABCMeta):
         pass
 
     @abstractmethod
-    async def _get_pages(self,  headless: bool) -> List[str]:
+    async def _get_pages(self, headless: bool) -> List[str]:
         pass
 
     @abstractmethod
-    async def _get_page(self, page: Any) -> Tuple[str, Optional[str]]:
+    async def _get_page(self, page: Any, page_index: int) -> Tuple[str, bool]:
         pass
 
     @abstractmethod

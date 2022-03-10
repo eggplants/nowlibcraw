@@ -1,1 +1,54 @@
-[]
+[
+    {
+        "index": 0,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4054522?current=1&total=4&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u52d8\u4ef2\u8a18, \u7b2c7",
+            "author": "[\u85e4\u539f\u517c\u4ef2\u8457]/\u9ad8\u6a4b\u79c0\u6a39, \u6afb\u4e95\u5f66, \u9060\u85e4\u73e0\u7d00\u6821\u8a02",
+            "publisher": "\u516b\u6728\u66f8\u5e97\u51fa\u7248\u90e8, \u516b\u6728\u66f8\u5e97 (\u767a\u58f2) 2021/11",
+            "isbn": "9784840652117",
+            "holding": "\u4e2d\u592e 210.088-Sh89-38-7 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 1,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4054507?current=2&total=4&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30ae\u30ea\u30b7\u30a2\u9676\u5668",
+            "author": "\u30a8\u30ea\u30ab\u30fb\u30b8\u30fc\u30e2\u30f3\u8457/\u82b3\u8cc0\u4eac\u5b50, \u85e4\u7530\u4fca\u5b50\u8a33",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u7f8e\u8853\u51fa\u7248 2021/3",
+            "isbn": "9784805508909",
+            "holding": "\u4f53\u82b8 702.03-Si6 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 2,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4054506?current=3&total=4&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4ecf\u5178\u3068\u30de\u30a4\u30f3\u30c9\u30d5\u30eb\u30cd\u30b9 : \u8ca0\u306e\u53cd\u5fdc\u3068\u305d\u306e\u5bfe\u51e6\u6cd5",
+            "author": "\u84d1\u8f2a\u9855\u91cf\u7de8",
+            "publisher": "\u81e8\u5ddd\u66f8\u5e97 2021/3",
+            "isbn": "9784653044369",
+            "holding": "\u4e2d\u592e 146.8-Mi47 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 3,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4054517?current=4&total=4&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6b74\u53f2\u7684\u4e16\u754c\u3078\u306e\u30a2\u30d7\u30ed\u30fc\u30c1/Approaches to history essays in honour of Hirokazu Tsurushima",
+            "author": "\u6625\u7530\u76f4\u7d00, \u65b0\u4e95\u7531\u7d00\u592b, David Roffe\u7de8",
+            "publisher": "\u5200\u6c34\u66f8\u623f 2021/12",
+            "isbn": "9784887084612",
+            "holding": "\u4e2d\u592e 209.4-Ts86 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    }
+]

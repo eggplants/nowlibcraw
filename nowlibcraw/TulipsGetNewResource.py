@@ -1,5 +1,5 @@
 import asyncio
-from typing import List, Optional, Tuple
+from typing import List, Optional, Tuple, cast
 import os
 import pyppeteer  # type: ignore[import]
 from bs4 import BeautifulSoup
@@ -43,10 +43,21 @@ class TulipsGetNewResource(GetNewResource):
         self.params = params
         self.source_path = source_path
         self.user_agent = user_agent
+        self.page_link = (
+            self.base_url
+            + "/opac/search?"
+            + "&".join(
+                [
+                    f"{k if k != 'type' else 'type[]'}={v}"
+                    for k, v in self.params.items()
+                ]
+            )
+        )
 
     def get(self, headless: bool = False) -> List[BookData]:
         sources = asyncio.get_event_loop().run_until_complete(self._get_pages(headless))
         book_data = self._extract_json(sources)
+        print(f"[get]{len(book_data)} books")
         self._save_data(book_data)
         return book_data
 
@@ -61,34 +72,48 @@ class TulipsGetNewResource(GetNewResource):
         browser = await pyppeteer.launch(headless=headless)
         contents: List[str] = []
         page = await browser.newPage()
+
         await page.setUserAgent(self.user_agent)
-        content, next_url = await self._get_page(page)
+        # await page.setDefaultNavigationTimeout(10 * 1000)
+        page_index = 1
+        content, has_next = await self._get_page(page, page_index)
         contents.append(content)
-        while next_url is not None:
-            content, next_url = await self._get_page(page)
+        while has_next:
+            page_index += 1
+            content, has_next = await self._get_page(page, page_index)
             contents.append(content)
         else:
             await browser.close()
             return contents
 
-    async def _get_page(self, page: pyppeteer.page.Page) -> Tuple[str, Optional[str]]:
-        await page.goto(
-            self.base_url
-            + "/opac/search?"
-            + "&".join(
-                [
-                    f"{k if k != 'type' else 'type[]'}={v}"
-                    for k, v in self.params.items()
-                ]
-            ),
-            {"waitUntil": "networkidle0"},
+    async def _get_page(
+        self, page: pyppeteer.page.Page, page_index: int
+    ) -> Tuple[str, bool]:
+        print(f"[get]{self.page_link}, index = {page_index}")
+        if page_index == 1:
+            await page.goto(
+                self.page_link,
+                {"waitUntil": "networkidle0"},
+            )
+        else:
+            await page.evaluate(
+                """() => {
+                document.getElementById('prevnext2_f').click()
+                }"""
+            )
+        await page.waitForFunction(
+            "document.getElementById('page_input_f').value === '%d'" % page_index
         )
         content = str(await page.content())
-        next_url = BS(content).find("input", class_="l_volume_page_next")
-        if isinstance(next_url, Tag) and hasattr(next_url, "value"):
-            return content, str(next_url.value)
+        next_tag = BS(content).find("td", id="prevnext2_f")
+        if isinstance(next_tag, Tag):
+            classes = next_tag.get("class", [])
+            if type(classes) is list and "active" in classes:
+                return content, True
+            else:
+                return content, False
         else:
-            return content, None
+            return content, False
 
     def _extract_json(self, sources: List[str]) -> List[BookData]:
         def get_book_info_text(book: Optional[Tag], class_: str) -> str:
@@ -119,7 +144,7 @@ class TulipsGetNewResource(GetNewResource):
                     "div.informationArea.c_information_area.l_informationArea"
                 )
                 res_i: BookData = {
-                    "index": source_idx * 100 + book_idx,
+                    "index": source_idx * self.params["count"] + book_idx,
                     "data": {
                         "link": "",
                         "title": "",
