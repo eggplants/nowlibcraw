@@ -2,7 +2,7 @@ import sys
 import time
 from io import BytesIO
 from typing import Any, List, Optional, Tuple
-
+import os
 import requests
 import tweepy  # type: ignore[import]
 
@@ -10,9 +10,10 @@ from .Dicts import BookData, BookDetailedInfo
 
 
 class PostTweet:
-    def __init__(self, keys: Tuple[str, str, str, str]):
+    def __init__(self, keys: Tuple[str, str, str, str], tweet_log_path: str = "log"):
         self.keys = keys
         self.api = self._get_tweepy_oauth(*self.keys)
+        self.tweet_log_path = tweet_log_path
 
     def update_oauth(self, keys: Tuple[str, str, str, str]) -> tweepy.API:
         self.keys = keys
@@ -20,7 +21,13 @@ class PostTweet:
 
     def tweet(self, data: List[BookData]) -> None:
         api = self._get_tweepy_oauth(*self.keys)
-        for datam in data:
+        tweet_log = os.path.join(self.tweet_log_path, "tweet.log")
+        tweeted_links = open(tweet_log, "r").readlines()
+        target_data = [
+            datam for datam in data if datam["data"]["link"] + "\n" not in tweeted_links
+        ]
+        log = open(tweet_log, "w")
+        for datam in target_data:
             tweet_content = self._make_tweet_content(datam["data"])
             tweet_img = self._get_book_image(datam["data"]["imagesrc"])
 
@@ -31,12 +38,15 @@ class PostTweet:
 
             if status:
                 print(f'[success]{datam["data"]["link"]}, {detail.id}')
+                print(datam["data"]["link"], file=log)
             else:
                 print(
                     f'[error]{datam["data"]["link"]}, {detail.reason}', file=sys.stderr
                 )
 
             time.sleep(40)
+        else:
+            log.close()
 
     @staticmethod
     def _get_tweepy_oauth(ck: str, cs: str, at: str, as_: str) -> tweepy.API:

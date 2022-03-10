@@ -23,3 +23,4 @@ class TulipsParams(TypedDict):
     target: Literal["local", "public"]
     searchmode: Literal["complex", "simple"]
     count: int
+    autoDetail: Literal["true", "false"]

@@ -1,5 +1,5 @@
-from .GetNewResource import GetNewResource
+from .TulipsGetNewResource import TulipsGetNewResource
 from .PostTweet import PostTweet
 
 __version__ = "0.0"
-__all__ = ["GetNewResource", "PostTweet"]
+__all__ = ["TulipsGetNewResource", "PostTweet"]

@@ -1,54 +1,77 @@
 import asyncio
 from typing import List, Optional, Tuple
-
+import os
 import pyppeteer  # type: ignore[import]
-from bs4 import BeautifulSoup as BS  # type: ignore[import]
-from bs4.element import ResultSet, Tag  # type: ignore[import]
-
+from bs4 import BeautifulSoup
+from bs4.element import ResultSet, Tag
+import json
 from .Dicts import BookData, TulipsParams
+from datetime import datetime
+
+from ._GetNewResource import GetNewResource
 
 
-class GetNewResource:
+from functools import partial
+
+BS = partial(BeautifulSoup, features="lxml")
+pyppeteer.DEBUG = True
+
+
+class TulipsGetNewResource(GetNewResource):
     _default_params: TulipsParams = {
         "arrivedwithin": 1,
         "type": "book",
         "target": "local",
         "searchmode": "complex",
         "count": 100,
+        "autoDetail": "true",
     }
+    _default_user_agent = (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 "
+        "Safari/537.36"
+    )
 
     def __init__(
         self,
         base_url: str = "https://www.tulips.tsukuba.ac.jp",
         params: TulipsParams = _default_params,
+        source_path: str = "source",
+        user_agent: str = _default_user_agent,
     ) -> None:
         self.base_url = base_url
         self.params = params
+        self.source_path = source_path
+        self.user_agent = user_agent
 
-    def get(self) -> List[BookData]:
-        sources = asyncio.get_event_loop().run_until_complete(self._get_pages())
-        return self._extract_json(sources)
+    def get(self, headless: bool = False) -> List[BookData]:
+        sources = asyncio.get_event_loop().run_until_complete(self._get_pages(headless))
+        book_data = self._extract_json(sources)
+        self._save_data(book_data)
+        return book_data
 
-    async def _get_pages(self) -> List[str]:
-        browser = await pyppeteer.launch(
-            # headless=False
-        )
+    def _save_data(self, data: List[BookData]) -> None:
+        now = datetime.now()
+        save_dir = os.path.join(self.source_path, "%04d" % now.year, "%02d" % now.month)
+        save_name = os.path.join(save_dir, now.strftime("%Y-%m-%d.json"))
+        os.makedirs(save_dir, exist_ok=True)
+        print(json.dumps(data, indent=4), file=open(save_name, "w"))
+
+    async def _get_pages(self, headless: bool) -> List[str]:
+        browser = await pyppeteer.launch(headless=headless)
         contents: List[str] = []
         page = await browser.newPage()
-        content, next_url = asyncio.get_event_loop().run_until_complete(
-            self._get_page(page)
-        )
+        await page.setUserAgent(self.user_agent)
+        content, next_url = await self._get_page(page)
         contents.append(content)
         while next_url is not None:
-            content, next_url = asyncio.get_event_loop().run_until_complete(
-                self._get_page(page)
-            )
+            content, next_url = await self._get_page(page)
             contents.append(content)
+        else:
+            await browser.close()
+            return contents
 
-        await browser.close()
-        return contents
-
-    async def _get_page(self, page: pyppeteer.Page) -> Tuple[str, Optional[str]]:
+    async def _get_page(self, page: pyppeteer.page.Page) -> Tuple[str, Optional[str]]:
         await page.goto(
             self.base_url
             + "/opac/search?"
@@ -87,7 +110,7 @@ class GetNewResource:
         res: List[BookData] = []
         for source_idx, source in enumerate(sources):
             b = BS(source)
-            books: ResultSet = b.select(
+            books: ResultSet[Tag] = b.select(
                 "div.panel.searchCard.l_searchCard.c_search_card.p_search_card"
             )
             default_img = "/bookimage-kango.png"
