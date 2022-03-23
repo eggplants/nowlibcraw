@@ -8,9 +8,9 @@ WIP: Obtaining information about new materials from the library system
 
 ## CLI
 
-```
+```shellsession
 $ nowlibcraw -h
-usage: nowlibcraw [-h] [-u URL] [-l DIR] [-k FILE] [-s SOURCE_DIR] [-t] [-S] [-V]
+usage: nowlibcraw [-h] [-u URL] [-l DIR] [-k FILE] [-s SOURCE_DIR] [-w WITHIN] [-t] [-H] [-V]
 
 Obtaining information about new materials from the library system
 
@@ -21,7 +21,12 @@ optional arguments:
   -k FILE, --key_file FILE    key file (default: None)
   -s SOURCE_DIR, --source_dir SOURCE_DIR
                               source dir (default: source)
+  -w WITHIN, --within WITHIN  number of day (default: 1)
   -t, --tweet                 post tweet (default: False)
-  -S, --show_browser          show browser when getting page (default: False)
+  -H, --headless              show browser when getting page (default: False)
   -V, --version               show program's version number and exit
 ```
+
+## TODO
+
+- tweet summary (and sum of purchased price) in week-end/month-end
