@@ -1,11 +1,12 @@
+import argparse
 import os
+import shutil
 
 from dotenv import load_dotenv
-import shutil
-from .TulipsGetNewResource import TulipsGetNewResource
-from .PostTweet import PostTweet
-import argparse
+
 from . import __version__
+from .PostTweet import PostTweet
+from .TulipsGetNewResource import TulipsGetNewResource
 
 
 class HelpFormatter(
@@ -80,11 +81,18 @@ def parse_args() -> argparse.Namespace:
         "-s", "--source_dir", type=check_isdir, help="source dir", default="source"
     )
     parser.add_argument(
+        "-w",
+        "--within",
+        type=check_natural,
+        help="number of day",
+        default=1,
+    )
+    parser.add_argument(
         "-t", "--tweet", action="store_true", help="post tweet", default=False
     )
     parser.add_argument(
-        "-S",
-        "--show_browser",
+        "-H",
+        "--headless",
         action="store_true",
         help="show browser when getting page",
         default=False,
@@ -105,12 +113,14 @@ def main() -> None:
         os.getenv("ACCESS_TOKEN", ""),
         os.getenv("ACCESS_TOKEN_SECRET", ""),
     )
+    print(keys)
 
     if args.url == "https://www.tulips.tsukuba.ac.jp":
         T = TulipsGetNewResource(args.url, source_path=args.source_dir)
     else:
         raise ValueError("not implemented")
-    sources = T.get(headless=args.show_browser)
+    T.set_arrived_within(args.within)
+    sources = T.get(headless=args.headless)
     if args.tweet:
         P = PostTweet(keys=keys, tweet_log_path=args.log_dir)
         P.tweet(sources)

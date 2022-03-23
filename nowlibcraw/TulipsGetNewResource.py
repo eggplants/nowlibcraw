@@ -1,17 +1,16 @@
 import asyncio
-from typing import List, Optional, Tuple, cast
+import json
 import os
+from datetime import datetime
+from functools import partial
+from typing import List, Optional, Tuple, cast
+
 import pyppeteer  # type: ignore[import]
 from bs4 import BeautifulSoup
 from bs4.element import ResultSet, Tag
-import json
-from .Dicts import BookData, TulipsParams
-from datetime import datetime
 
 from ._GetNewResource import GetNewResource
-
-
-from functools import partial
+from .Dicts import BookData, TulipsParams
 
 BS = partial(BeautifulSoup, features="lxml")
 pyppeteer.DEBUG = True
@@ -61,6 +60,20 @@ class TulipsGetNewResource(GetNewResource):
         self._save_data(book_data)
         return book_data
 
+    def set_arrived_within(self, day: int) -> None:
+        if "arrivedwithin" in self.params:
+            self.params["arrivedwithin"] = day
+            self.page_link = (
+                self.base_url
+                + "/opac/search?"
+                + "&".join(
+                    [
+                        f"{k if k != 'type' else 'type[]'}={v}"
+                        for k, v in self.params.items()
+                    ]
+                )
+            )
+
     def _save_data(self, data: List[BookData]) -> None:
         now = datetime.now()
         save_dir = os.path.join(self.source_path, "%04d" % now.year, "%02d" % now.month)
@@ -77,10 +90,14 @@ class TulipsGetNewResource(GetNewResource):
         # await page.setDefaultNavigationTimeout(10 * 1000)
         page_index = 1
         content, has_next = await self._get_page(page, page_index)
+        if content is None:
+            return contents
         contents.append(content)
         while has_next:
             page_index += 1
             content, has_next = await self._get_page(page, page_index)
+            if content is None:
+                return contents
             contents.append(content)
         else:
             await browser.close()
@@ -88,7 +105,7 @@ class TulipsGetNewResource(GetNewResource):
 
     async def _get_page(
         self, page: pyppeteer.page.Page, page_index: int
-    ) -> Tuple[str, bool]:
+    ) -> Tuple[Optional[str], bool]:
         print(f"[get]{self.page_link}, index = {page_index}")
         if page_index == 1:
             await page.goto(
@@ -101,9 +118,12 @@ class TulipsGetNewResource(GetNewResource):
                 document.getElementById('prevnext2_f').click()
                 }"""
             )
-        await page.waitForFunction(
-            "document.getElementById('page_input_f').value === '%d'" % page_index
-        )
+        try:
+            await page.waitForFunction(
+                "document.getElementById('page_input_f').value === '%d'" % page_index
+            )
+        except pyppeteer.errors.ElementHandleError:
+            return None, False
         content = str(await page.content())
         next_tag = BS(content).find("td", id="prevnext2_f")
         if isinstance(next_tag, Tag):
