@@ -1,10 +1,12 @@
 import argparse
+import datetime
 import os
 import shutil
 
 from dotenv import load_dotenv
 
 from . import __version__
+from .PostSummaryTweet import PostSummaryTweet
 from .PostTweet import PostTweet
 from .TulipsGetNewResource import TulipsGetNewResource
 
@@ -48,7 +50,7 @@ def parse_args() -> argparse.Namespace:
                 prog,
                 **{
                     "width": shutil.get_terminal_size(fallback=(120, 50)).columns,
-                    "max_help_position": 30,
+                    "max_help_position": 40,
                 },
             )
         ),
@@ -78,7 +80,12 @@ def parse_args() -> argparse.Namespace:
         help="key file",
     )
     parser.add_argument(
-        "-s", "--source_dir", type=check_isdir, help="source dir", default="source"
+        "-s",
+        "--source_dir",
+        type=check_isdir,
+        help="source dir",
+        default="source",
+        metavar="DIR",
     )
     parser.add_argument(
         "-w",
@@ -86,6 +93,15 @@ def parse_args() -> argparse.Namespace:
         type=check_natural,
         help="number of day",
         default=1,
+        metavar="DAY",
+    )
+    parser.add_argument(
+        "-W",
+        "--within_summary",
+        type=check_natural,
+        help="number of day to summary",
+        default=7,
+        metavar="DAY",
     )
     parser.add_argument(
         "-t", "--tweet", action="store_true", help="post tweet", default=False
@@ -113,7 +129,6 @@ def main() -> None:
         os.getenv("ACCESS_TOKEN", ""),
         os.getenv("ACCESS_TOKEN_SECRET", ""),
     )
-    print(keys)
 
     if args.url == "https://www.tulips.tsukuba.ac.jp":
         T = TulipsGetNewResource(args.url, source_path=args.source_dir)
@@ -124,6 +139,13 @@ def main() -> None:
     if args.tweet:
         P = PostTweet(keys=keys, tweet_log_path=args.log_dir)
         P.tweet(sources)
+        if True or datetime.datetime.now().weekday() == 6:
+            S = PostSummaryTweet(
+                keys=keys,
+                source_path=args.source_dir,
+                summary_tweet_log_path=args.log_dir,
+            )
+            S.tweet(days=args.within_summary)
 
 
 if __name__ == "__main__":
