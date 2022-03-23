@@ -1,6 +1,6 @@
 # nowlibcraw
 
-[![PyPI](https://img.shields.io/pypi/v/nowlibcraw?color=blue)](https://pypi.org/project/nowlibcraw/) [![Maintainability]](https://codeclimate.com/github/eggplants/nowlibcraw/maintainability)
+[![PyPI](https://img.shields.io/pypi/v/nowlibcraw?color=blue)](https://pypi.org/project/nowlibcraw/) [![Maintainability](https://api.codeclimate.com/v1/badges/11802e4aba9c40b8f0c9/maintainability)](https://codeclimate.com/github/eggplants/nowlibcraw/maintainability)
 
 WIP: Obtaining information about new materials from the library system
 
