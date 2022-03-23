@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 from functools import partial
-from typing import List, Optional, Tuple, cast
+from typing import List, Optional, Tuple
 
 import pyppeteer  # type: ignore[import]
 from bs4 import BeautifulSoup

@@ -2,8 +2,7 @@ import json
 import os
 import sys
 from datetime import datetime, timedelta
-from io import BytesIO
-from typing import Any, List, Optional, Tuple
+from typing import Any, List, Tuple
 
 import tweepy  # type: ignore[import]
 

@@ -1,6 +1,6 @@
 from abc import ABCMeta, abstractmethod
+from typing import Any, Dict, List, Optional, Tuple
 
-from typing import Dict, Any, List, Tuple, Optional
 from .Dicts import BookData
 
 
@@ -24,7 +24,7 @@ class GetNewResource(metaclass=ABCMeta):
         pass
 
     @abstractmethod
-    async def _get_page(self, page: Any, page_index: int) -> Tuple[str, bool]:
+    async def _get_page(self, page: Any, page_index: int) -> Tuple[Optional[str], bool]:
         pass
 
     @abstractmethod
