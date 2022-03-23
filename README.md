@@ -25,7 +25,7 @@ WIP: Obtaining information about new materials from the library system
 ## Supported Site(s)
 
 - Tulips - <https://www.tulips.tsukuba.ac.jp>
-  - New Arrival Twitter Bot: [@tulipsnewbooks](https://twitter.com/tulipsnewbooks)
+  - New Arrival Twitter Bot: [![Twitter Follow](https://img.shields.io/twitter/follow/tulipsnewbooks)](https://twitter.com/tulipsnewbooks)
 
 ## CLI
 
