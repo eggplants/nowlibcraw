@@ -1,12 +1,31 @@
 # nowlibcraw
 
-[![PyPI](https://img.shields.io/pypi/v/nowlibcraw?color=blue)](https://pypi.org/project/nowlibcraw/) [![Maintainability](https://api.codeclimate.com/v1/badges/11802e4aba9c40b8f0c9/maintainability)](https://codeclimate.com/github/eggplants/nowlibcraw/maintainability)
+[![PyPI](
+  https://img.shields.io/pypi/v/nowlibcraw?color=blue
+)](
+  https://pypi.org/project/nowlibcraw/
+) [![Maintainability](
+  https://api.codeclimate.com/v1/badges/11802e4aba9c40b8f0c9/maintainability
+)](
+  https://codeclimate.com/github/eggplants/nowlibcraw/maintainability
+)
+
+[![Run Bot](
+  https://github.com/eggplants/nowlibcraw/actions/workflows/run.yml/badge.svg
+)](
+  https://github.com/eggplants/nowlibcraw/actions/workflows/run.yml
+) [![Release Package](
+  https://github.com/eggplants/nowlibcraw/actions/workflows/release.yml/badge.svg
+)](
+  https://github.com/eggplants/nowlibcraw/actions/workflows/release.yml
+)
 
 WIP: Obtaining information about new materials from the library system
 
 ## Supported Site(s)
 
 - Tulips - <https://www.tulips.tsukuba.ac.jp>
+  - New Arrival Twitter Bot: [@tulipsnewbooks](https://twitter.com/tulipsnewbooks)
 
 ## CLI
 
