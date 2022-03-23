@@ -25,6 +25,8 @@ class PostSummaryTweet:
 
     def tweet(self, days: int = 7) -> None:
         tweet_log = os.path.join(self.summary_tweet_log_path, "summary_tweet.log")
+        os.makedir(self.summary_tweet_log_path, exist_ok=True)
+        open(tweet_log, 'a').close()
         week_data_paths = [
             os.path.join(
                 self.source_path,
