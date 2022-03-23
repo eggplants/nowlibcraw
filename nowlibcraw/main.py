@@ -2,6 +2,7 @@ import argparse
 import datetime
 import os
 import shutil
+import sys
 
 from dotenv import load_dotenv
 
@@ -18,10 +19,17 @@ class HelpFormatter(
 
 
 def check_natural(v: str) -> int:
-    if int(v) < 0:
-        raise argparse.ArgumentTypeError(f"{repr(v)} is an invalid natural int")
-    else:
+    if int(v) >= 0:
         return int(v)
+    else:
+        raise argparse.ArgumentTypeError(f"{repr(v)} is an invalid natural int")
+
+
+def check_weekday(v: str) -> int:
+    if 0 <= int(v) <= 6:
+        return int(v)
+    else:
+        raise ValueError(f"weekday must be 0-6, got {repr(v)}")
 
 
 def check_isdir(p: str) -> str:
@@ -104,6 +112,13 @@ def parse_args() -> argparse.Namespace:
         metavar="DAY",
     )
     parser.add_argument(
+        "--weekday",
+        type=check_weekday,
+        help="a weekday (0-6, mon-sun) to post week summary",
+        default=6,
+        metavar="DAY",
+    )
+    parser.add_argument(
         "-t", "--tweet", action="store_true", help="post tweet", default=False
     )
     parser.add_argument(
@@ -116,6 +131,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "-V", "--version", action="version", version="%(prog)s {}".format(__version__)
     )
+    if len(sys.argv) < 2:
+        parser.print_usage()
+        print("if you want to read long help, type `nowlibcraw -h`")
+        exit(0)
     return parser.parse_args()
 
 
@@ -124,10 +143,10 @@ def main() -> None:
     if args.key_file is not None:
         load_dotenv(args.key_file)
     keys = (
-        os.getenv("CONSUMER_KEY", ""),
-        os.getenv("CONSUMER_SECRET", ""),
-        os.getenv("ACCESS_TOKEN", ""),
-        os.getenv("ACCESS_TOKEN_SECRET", ""),
+        os.environ["CONSUMER_KEY"],
+        os.environ["CONSUMER_SECRET"],
+        os.environ["ACCESS_TOKEN"],
+        os.environ["ACCESS_TOKEN_SECRET"],
     )
 
     if args.url == "https://www.tulips.tsukuba.ac.jp":
@@ -139,7 +158,7 @@ def main() -> None:
     if args.tweet:
         P = PostTweet(keys=keys, tweet_log_path=args.log_dir)
         P.tweet(sources)
-        if True or datetime.datetime.now().weekday() == 6:
+        if datetime.datetime.now().weekday() == args.weekday:
             S = PostSummaryTweet(
                 keys=keys,
                 source_path=args.source_dir,

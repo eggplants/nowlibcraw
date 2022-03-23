@@ -86,5 +86,6 @@ class PostSummaryTweet:
             contents.append(f"{day}: {cnt} 冊")
             sum_books += cnt
         else:
+            contents.append("-" * 12)
             contents.append(f"計: {sum_books} 冊")
             return "\n".join(contents)
