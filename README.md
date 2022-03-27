@@ -18,6 +18,10 @@
   https://github.com/eggplants/nowlibcraw/actions/workflows/release.yml/badge.svg
 )](
   https://github.com/eggplants/nowlibcraw/actions/workflows/release.yml
+) [![pages-build-deployment](
+  https://github.com/eggplants/nowlibcraw/actions/workflows/pages/pages-build-deployment/badge.svg
+)](
+  https://github.com/eggplants/nowlibcraw/actions/workflows/pages/pages-build-deployment
 )
 
 WIP: Obtaining information about new materials from the library system
