@@ -34,6 +34,9 @@ class PostSummaryTweet:
             )
             for i in range(days)
         ][::-1]
+        for i in week_data_paths:
+            if not os.path.isfile(i):
+                print("[]", file=open(i, "w"))
         week_book_count = [
             (
                 i.split("/")[-1].replace(".json", "", 1),
