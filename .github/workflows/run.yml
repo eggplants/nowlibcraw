@@ -2,7 +2,7 @@ name: Run Bot
 
 on:
   schedule:
-    - cron: 0 1 * * *
+    - cron: 0 1 * * *  # at 10AM in JST
   workflow_dispatch:
 
 jobs:
