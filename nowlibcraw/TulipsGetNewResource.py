@@ -200,9 +200,7 @@ class TulipsGetNewResource(GetNewResource):
                 img = book_d.select_one("img")
                 imgsrc = None if img is None else img.get("src")
                 res_i["data"]["imagesrc"] = (
-                    imgsrc
-                    if type(imgsrc) is str and default_img not in imgsrc
-                    else ""
+                    imgsrc if type(imgsrc) is str and default_img not in imgsrc else ""
                 )
                 res.append(res_i)
         else:
