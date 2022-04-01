@@ -201,7 +201,7 @@ class TulipsGetNewResource(GetNewResource):
                 imgsrc = None if img is None else img.get("src")
                 res_i["data"]["imagesrc"] = (
                     ""
-                    if type(imgsrc) is not str or imgsrc[-20:] != default_img
+                    if type(imgsrc) is not str or default_img not in imgsrc
                     else imgsrc
                 )
                 res.append(res_i)
