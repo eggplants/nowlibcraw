@@ -22,6 +22,10 @@
   https://github.com/eggplants/nowlibcraw/actions/workflows/pages/pages-build-deployment/badge.svg
 )](
   https://github.com/eggplants/nowlibcraw/actions/workflows/pages/pages-build-deployment
+) [![pre-commit.ci](
+  https://results.pre-commit.ci/badge/github/eggplants/nowlibcraw/master.svg
+)](
+  https://results.pre-commit.ci/latest/github/eggplants/nowlibcraw/main
 )
 
 WIP: Obtaining information about new materials from the library system
