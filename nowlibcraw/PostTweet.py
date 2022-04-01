@@ -71,7 +71,7 @@ class PostTweet:
                 )
                 status = api.update_status(content, media_ids=[result_img.media_id])
             return (True, status)
-        except tweepy.TweepError as e:
+        except tweepy.TweepyException as e:
             print(content, file=sys.stderr)
             return (False, e)
 

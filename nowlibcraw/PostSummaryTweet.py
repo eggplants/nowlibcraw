@@ -67,16 +67,7 @@ class PostSummaryTweet:
         try:
             status = api.update_status(content)
             return (True, status)
-        except (
-            tweepy.errors.BadRequest,
-            tweepy.errors.TweepyException,
-            tweepy.errors.Forbidden,
-            tweepy.errors.TwitterServerError,
-            tweepy.errors.HTTPException,
-            tweepy.errors.Unauthorized,
-            tweepy.errors.NotFound,
-            tweepy.errors.TooManyRequests,
-        ) as e:
+        except tweepy.TweepyException as e:
             print(content, file=sys.stderr)
             return (False, e)
 
