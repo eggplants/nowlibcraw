@@ -124,6 +124,8 @@ class TulipsGetNewResource(GetNewResource):
             )
         except pyppeteer.errors.ElementHandleError:
             return None, False
+
+        await asyncio.sleep(10)
         content = str(await page.content())
         next_tag = BS(content).find("td", id="prevnext2_f")
         if isinstance(next_tag, Tag):
