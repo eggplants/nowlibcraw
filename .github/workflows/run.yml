@@ -35,10 +35,6 @@ jobs:
           nowlibcraw -t -H
       - name: Commit
         run: |
-          if git diff --quiet HEAD; then
-            :
-          else
-            git add .
-            git commit -m "update: $(date +%y%m%d)"
-            git push origin master
-          fi
+          git add .
+          git commit -m "update: $(date +%y%m%d)"
+          git push origin master
