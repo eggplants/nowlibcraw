@@ -45,9 +45,7 @@ class PostTweet:
                 print(f'[success]{datam["data"]["link"]}, {detail.id}')
                 print(datam["data"]["link"], file=log)
             else:
-                print(
-                    f'[error]{datam["data"]["link"]}', file=sys.stderr
-                )
+                print(f'[error]{datam["data"]["link"]}', file=sys.stderr)
 
             time.sleep(40)
         else:
