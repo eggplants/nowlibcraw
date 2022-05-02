@@ -77,13 +77,13 @@ class PostTweet:
     def _make_tweet_content(datam_info: BookDetailedInfo) -> str:
         def shorten(text: str, byte_len: int = 40, encoding: str = "utf-8") -> str:
             if len(text.encode(encoding)) <= byte_len:
-                return replace_nd(text)
+                return replace_and(text)
             while len(text.encode(encoding)) > byte_len:
                 text = text[:-1]
             else:
                 return text + "…"
 
-        def replace_nd(text: str) -> str:
+        def replace_and(text: str) -> str:
             return "<no data>" if text == "" else text
 
         content = "\n".join(
@@ -103,7 +103,7 @@ class PostTweet:
             author=shorten(datam_info["author"], 40),
             publisher=shorten(datam_info["publisher"], 40),
             holding=shorten(datam_info["holding"], 50),
-            link=replace_nd(datam_info["link"]),
+            link=replace_and(datam_info["link"]),
         )
 
     @staticmethod
