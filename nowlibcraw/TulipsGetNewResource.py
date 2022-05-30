@@ -1,9 +1,10 @@
+from __future__ import annotations
+
 import asyncio
 import json
 import os
 from datetime import datetime
 from functools import partial
-from typing import List, Optional, Tuple
 
 import pyppeteer  # type: ignore[import]
 from bs4 import BeautifulSoup
@@ -53,7 +54,7 @@ class TulipsGetNewResource(GetNewResource):
             )
         )
 
-    def get(self, headless: bool = False) -> List[BookData]:
+    def get(self, headless: bool = False) -> list[BookData]:
         sources = asyncio.get_event_loop().run_until_complete(self._get_pages(headless))
         book_data = self._extract_json(sources)
         print(f"[get]{len(book_data)} books")
@@ -74,16 +75,16 @@ class TulipsGetNewResource(GetNewResource):
                 )
             )
 
-    def _save_data(self, data: List[BookData]) -> None:
+    def _save_data(self, data: list[BookData]) -> None:
         now = datetime.now()
         save_dir = os.path.join(self.source_path, "%04d" % now.year, "%02d" % now.month)
         save_name = os.path.join(save_dir, now.strftime("%Y-%m-%d.json"))
         os.makedirs(save_dir, exist_ok=True)
         print(json.dumps(data, indent=4), file=open(save_name, "w"))
 
-    async def _get_pages(self, headless: bool) -> List[str]:
+    async def _get_pages(self, headless: bool) -> list[str]:
         browser = await pyppeteer.launch(headless=headless)
-        contents: List[str] = []
+        contents: list[str] = []
         page = await browser.newPage()
 
         await page.setUserAgent(self.user_agent)
@@ -105,7 +106,7 @@ class TulipsGetNewResource(GetNewResource):
 
     async def _get_page(
         self, page: pyppeteer.page.Page, page_index: int
-    ) -> Tuple[Optional[str], bool]:
+    ) -> tuple[str | None, bool]:
         print(f"[get]{self.page_link}, index = {page_index}")
         if page_index == 1:
             await page.goto(
@@ -137,8 +138,8 @@ class TulipsGetNewResource(GetNewResource):
         else:
             return content, False
 
-    def _extract_json(self, sources: List[str]) -> List[BookData]:
-        def get_book_info_text(book: Optional[Tag], class_: str) -> str:
+    def _extract_json(self, sources: list[str]) -> list[BookData]:
+        def get_book_info_text(book: Tag | None, class_: str) -> str:
             if book is None:
                 return ""
             b = book.find("dl", class_=class_)
@@ -154,7 +155,7 @@ class TulipsGetNewResource(GetNewResource):
             else:
                 return ""
 
-        res: List[BookData] = []
+        res: list[BookData] = []
         for source_idx, source in enumerate(sources):
             b = BS(source)
             books: ResultSet[Tag] = b.select(

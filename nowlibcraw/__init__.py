@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from .PostSummaryTweet import PostSummaryTweet
 from .PostTweet import PostTweet
 from .TulipsGetNewResource import TulipsGetNewResource

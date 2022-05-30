@@ -1,8 +1,10 @@
+from __future__ import annotations
+
 import json
 import os
 import sys
 from datetime import datetime, timedelta
-from typing import Any, List, Tuple
+from typing import Any
 
 import tweepy  # type: ignore[import]
 
@@ -10,7 +12,7 @@ import tweepy  # type: ignore[import]
 class PostSummaryTweet:
     def __init__(
         self,
-        keys: Tuple[str, str, str, str],
+        keys: tuple[str, str, str, str],
         source_path: str = "source",
         summary_tweet_log_path: str = "log",
     ):
@@ -19,7 +21,7 @@ class PostSummaryTweet:
         self.source_path = source_path
         self.summary_tweet_log_path = summary_tweet_log_path
 
-    def update_oauth(self, keys: Tuple[str, str, str, str]) -> tweepy.API:
+    def update_oauth(self, keys: tuple[str, str, str, str]) -> tweepy.API:
         self.keys = keys
         self.api = self._get_tweepy_oauth(*self.keys)
 
@@ -63,7 +65,7 @@ class PostSummaryTweet:
         oauth.set_access_token(at, as_)
         return tweepy.API(oauth)
 
-    def _tweet(self, content: str, api: tweepy.API) -> Tuple[bool, Any]:
+    def _tweet(self, content: str, api: tweepy.API) -> tuple[bool, Any]:
         try:
             status = api.update_status(content)
             return (True, status)
@@ -72,7 +74,7 @@ class PostSummaryTweet:
             return (False, e)
 
     @staticmethod
-    def _make_tweet_content(book_count: List[Tuple[str, int]]) -> str:
+    def _make_tweet_content(book_count: list[tuple[str, int]]) -> str:
         contents = [
             "✨今週の新着資料まとめ✨",
         ]

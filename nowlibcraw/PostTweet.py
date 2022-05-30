@@ -1,8 +1,10 @@
+from __future__ import annotations
+
 import os
 import sys
 import time
 from io import BytesIO
-from typing import Any, List, Optional, Tuple
+from typing import Any
 
 import requests
 import tweepy  # type: ignore[import]
@@ -11,16 +13,16 @@ from .Dicts import BookData, BookDetailedInfo
 
 
 class PostTweet:
-    def __init__(self, keys: Tuple[str, str, str, str], tweet_log_path: str = "log"):
+    def __init__(self, keys: tuple[str, str, str, str], tweet_log_path: str = "log"):
         self.keys = keys
         self.api = self._get_tweepy_oauth(*self.keys)
         self.tweet_log_path = tweet_log_path
 
-    def update_oauth(self, keys: Tuple[str, str, str, str]) -> tweepy.API:
+    def update_oauth(self, keys: tuple[str, str, str, str]) -> tweepy.API:
         self.keys = keys
         self.api = self._get_tweepy_oauth(*self.keys)
 
-    def tweet(self, data: List[BookData]) -> None:
+    def tweet(self, data: list[BookData]) -> None:
         tweet_log = os.path.join(self.tweet_log_path, "tweet.log")
         os.makedirs(self.tweet_log_path, exist_ok=True)
         open(tweet_log, "a").close()
@@ -58,8 +60,8 @@ class PostTweet:
         return tweepy.API(oauth)
 
     def _tweet(
-        self, content: str, api: tweepy.API, img_data: Optional[bytes] = None
-    ) -> Tuple[bool, Any]:
+        self, content: str, api: tweepy.API, img_data: bytes | None = None
+    ) -> tuple[bool, Any]:
         try:
             if img_data is None:
                 status = api.update_status(content)
@@ -107,7 +109,7 @@ class PostTweet:
         )
 
     @staticmethod
-    def _get_book_image(datam_imagesrc: str) -> Optional[bytes]:
+    def _get_book_image(datam_imagesrc: str) -> bytes | None:
         if datam_imagesrc == "":
             return None
         else:
