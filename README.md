@@ -35,7 +35,7 @@ WIP: Obtaining information about new materials from the library system
 - Tulips - <https://www.tulips.tsukuba.ac.jp>
   - New Arrival Twitter Bot: [![Twitter Follow](https://img.shields.io/twitter/follow/tulipsnewbooks)](https://twitter.com/tulipsnewbooks)
   - Retrieved Book Data: `/source/YYYY/MM/YYYY-MM-DD.json`
-    - <https://egpl.ga/nowlibcraw/source/2022/01/2022-01-31.json>
+    - <https://egpl.dev/nowlibcraw/source/2022/01/2022-01-31.json>
 
 ## CLI
 
