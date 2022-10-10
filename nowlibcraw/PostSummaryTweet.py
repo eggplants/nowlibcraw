@@ -42,7 +42,7 @@ class PostSummaryTweet:
         week_book_count = [
             (
                 i.split("/")[-1].replace(".json", "", 1),
-                len(json.load(open(i, "r"))),
+                len(json.load(open(i))),
             )
             for i in week_data_paths
         ]
