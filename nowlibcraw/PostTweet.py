@@ -26,7 +26,7 @@ class PostTweet:
         tweet_log = os.path.join(self.tweet_log_path, "tweet.log")
         os.makedirs(self.tweet_log_path, exist_ok=True)
         open(tweet_log, "a").close()
-        tweeted_links = open(tweet_log, "r").readlines()
+        tweeted_links = open(tweet_log).readlines()
         target_data = [
             datam for datam in data if datam["data"]["link"] + "\n" not in tweeted_links
         ]
