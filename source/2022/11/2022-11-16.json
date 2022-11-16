@@ -1,0 +1,2823 @@
+[
+    {
+        "index": 0,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101236?current=1&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "18\u6b73\u304b\u3089\u306f\u3058\u3081\u308b\u60c5\u5831\u6cd5, \u7b2c2\u7248",
+            "author": "\u7c73\u4e38\u6052\u6cbb\u7de8",
+            "publisher": "\u6cd5\u5f8b\u6587\u5316\u793e 2022/9",
+            "isbn": "9784589042347",
+            "holding": "\u5927\u585a 007.3-Y83 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=0sxMzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 1,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101072?current=2&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "AI\u30fb\u30ed\u30dc\u30c3\u30c8\u3068\u5171\u5b58\u306e\u502b\u7406",
+            "author": "\u897f\u57a3\u901a\u7de8/\u6cb3\u5cf6\u8302\u751f [\u307b\u304b\u57f7\u7b46]",
+            "publisher": "\u5ca9\u6ce2\u66f8\u5e97 2022/7",
+            "isbn": "9784000223133",
+            "holding": "\u4e2d\u592e 007.13-N81 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=jZ05zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 2,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101257?current=3&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Architecture and design at the Museum of Modern Art : the Arthur Drexler years, 1951-1986",
+            "author": "Thomas S. Hines",
+            "publisher": "Getty Research Institute 2019",
+            "isbn": "9781606065815",
+            "holding": "\u4f53\u82b8 523.53-D91 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=vWN5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 3,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100535?current=4&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 1, v. 1",
+            "author": "[chief editor, Masami Isoda/penerjemah, Wahid Yunianto/editor, Ganung Anggraeni]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441915 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-1-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 4,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100648?current=5&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 2, v. 1",
+            "author": "[chief editor, Masami Isoda/penerjemah, Ardhi Prabowo/editor, Ganung Anggraeni]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441922 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-2-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 5,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100701?current=6&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 2, v. 2",
+            "author": "[chief editor, Masami Isoda/penerjemah, Afit Istiandaru/editor, Ganung Anggraeni]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441939",
+            "holding": "\u4e2d\u592e 375.941-H77-2-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 6,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100723?current=7&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 3, v. 1",
+            "author": "[chief editor, Masami Isoda/penerjemah, I Gusti Ayu Russasmita Sri Padmi/editor, Puji Iryanti]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441946 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-3-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 7,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100747?current=8&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 3, v. 2",
+            "author": "[chief editor, Masami Isoda/penerjemah, Fitriana Yuli Saptaningtyas/editor, Puji Iryanti]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441953 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-3-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 8,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100759?current=9&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 4, v. 1",
+            "author": "[chief editor, Masami Isoda/penerjemah, Wahid Yunianto/editor, Puji Iryanti]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441960",
+            "holding": "\u4e2d\u592e 375.941-H77-4-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 9,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100778?current=10&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 4, v. 2",
+            "author": "[chief editor, Masami Isoda/penerjemah, I Made Sulandra/editor, Subanar]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441977",
+            "holding": "\u4e2d\u592e 375.941-H77-4-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 10,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100916?current=11&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 5, v. 1",
+            "author": "[chief editor, Masami Isoda/penerjemah, Nila Mareta Murdiyani/editor, Subanar]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441984 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-5-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 11,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100920?current=12&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 5, v. 2",
+            "author": "[chief editor, Masami Isoda/penerjemah, Himmawati Puji Lestari/editor, Subanar]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022441991 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-5-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 12,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100947?current=13&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 6, v. 1",
+            "author": "[chief editor, Masami Isoda/penerjemah, Uki Rahmawati/editor, Ganung Anggraeni]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022442004 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-6-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 13,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100954?current=14&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 6, v. 2",
+            "author": "[chief editor, Masami Isoda/penerjemah, Dwi Ertiningsih/editor, Ganung Anggraeni]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022442011 / 9786022441908",
+            "holding": "\u4e2d\u592e 375.941-H77-6-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 14,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100961?current=15&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Belajar bersama temanmu matematika untuk sekolah dasar, kelas 6",
+            "author": "[chief editor, Masami Isoda/penerjemah, Dwi Ertiningsih/editor, Ganung Anggraeni]",
+            "publisher": "Pusat Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022442066",
+            "holding": "\u4e2d\u592e 375.941-H77-6 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 15,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101174?current=16&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Chinese collaboration with Japan, 1932-1945 : the limits of accommodation",
+            "author": "edited by David P. Barrett and Larry N. Shyu",
+            "publisher": "Stanford University Press 2001",
+            "isbn": "0804737681",
+            "holding": "\u4e2d\u592e 222.074-B24 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=FthtSfOogBEC&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 16,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101093?current=17&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Colonial modernities : building, dwelling, and architecture in British India and Ceylon, : pbk.",
+            "author": "edited by Peter Scriver and Vikramaditya Prakash",
+            "publisher": "Routledge 2007",
+            "isbn": "9780415399098 / 0415399092",
+            "holding": "\u4e2d\u592e 522.5-Sc9 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=RMp5mAEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 17,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101019?current=18&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Dapitanon",
+            "author": "Noel G. Villaroman",
+            "publisher": "New Day 2018",
+            "isbn": "9789711013646",
+            "holding": "\u4e2d\u592e 289-R49 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 18,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100962?current=19&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Deutsche Finanzwirtschaft : mit einer \u00dcbersicht \u00fcber die Geschichte der deutschen Finanzwirtschaft, 2weite, neu bearbeitete aufl.",
+            "author": "von Jens Jessen",
+            "publisher": "Hanseatische Verlagsanstalt 1944",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 332.34-J41 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 19,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/945695?current=20&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Dokumente und Materialien zur Geschichte der deutschen Arbeiterbewegung, Bd. 4",
+            "author": "herausgegeben vom Institut f\u00fcr Marxismus-Leninismus beim Zentralkomitee der Sozialistischen Einheitspartei Deutschlands",
+            "publisher": "Dietz 1957-",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 366.623-I57-4 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 20,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101239?current=21&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Folkbiblioteket",
+            "author": "text, Dan Hallemar/foto, Bert Leandersson",
+            "publisher": "Bokf\u00f6rlaget Arena 2022",
+            "isbn": "9789178435715",
+            "holding": "\u56f3\u60c5\u642c\u9001\u4e2d 016.238-H21 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 21,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101249?current=22&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Global action for school libraries : models of inquiry",
+            "author": "edited by Barbara A. Schultz-Jones and Dianne Oberg",
+            "publisher": "De Gruyter Saur 2022",
+            "isbn": "9783110772579",
+            "holding": "\u56f3\u60c5\u642c\u9001\u4e2d 017-Sc8 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=eB3QzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 22,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101224?current=23&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Handbook of writing for the mathematical sciences, 3rd ed",
+            "author": "Nicholas J. Higham",
+            "publisher": "Society for Industrial & Applied Mathematics 2020",
+            "isbn": "9781611976090",
+            "holding": "\u4e2d\u592e 410.7-H55 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 23,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101258?current=24&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "The Independent Group : postwar Britain and the aesthetics of plenty",
+            "author": "edited by David Robbins",
+            "publisher": "MIT Press 1990",
+            "isbn": "0262181398",
+            "holding": "\u4f53\u82b8 702.33-I54 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 24,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100960?current=25&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "The labour market triangle : employment protection, unemployment compensation and activation in Europe",
+            "author": "edited by Paul de Beer, Trudie Schils",
+            "publisher": "Edward Elgar 2009",
+            "isbn": "9781848444782",
+            "holding": "\u4e2d\u592e 366.23-B32 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=F40kmAEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 25,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101070?current=26&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Liberalism and the postcolony : thinking the state in 20th-century Philippines",
+            "author": "Lisandro E. Claudio",
+            "publisher": "ateneo de Manila University Press 2017",
+            "isbn": "9789715507806",
+            "holding": "\u4e2d\u592e 312.248-C76 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 26,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/1518033?current=27&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Licensing best practices : the LESI guide to strategic issues and contemporary realities",
+            "author": "Robert Goldscheider, editor",
+            "publisher": "John Wiley & Sons 2002",
+            "isbn": "9780471219521 / 0471219525",
+            "holding": "\u5927\u585a 328.5-G61 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=LdqmNAEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 27,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101052?current=28&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Matematika untuk sekolah menengah pertama, kelas 9",
+            "author": "[penerjemah, Kumalasari Onggobawono, Jane Langking/editor, Jozhua Sabandar]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022442059 / 9786022442028",
+            "holding": "\u4e2d\u592e 375.941-H77-9 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 28,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101034?current=29&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Matematika untuk sekolah menengah pertama, kelas 8",
+            "author": "[penerjemah, Al Jupri/editor, Poppy Yaniawati]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022442042 / 9786022442028",
+            "holding": "\u4e2d\u592e 375.941-H77-8 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 29,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101020?current=30&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Matematika untuk sekolah menengah pertama, kelas 7",
+            "author": "[penerjemah, Kasiyah/editor, Zulkardi]",
+            "publisher": "Pusat Kurikulum dan Perbukuan ; Tokyo, Gakkohtosho [i.e. Gakkotosho] 2019",
+            "isbn": "9786022442035 / 9786022442028",
+            "holding": "\u4e2d\u592e 375.941-H77-7 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 30,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101105?current=31&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "The modern girl around the world : consumption, modernity, and globalization, : pbk",
+            "author": "the Modern Girl Around the World Research Group (Alys Eve Weinbaum ... [et al.], editors)",
+            "publisher": "Duke University Press 2008",
+            "isbn": "9780822343059",
+            "holding": "\u4e2d\u592e 367.2-W55 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=JITjmAEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 31,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101195?current=32&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Of matters modern : the experience of modernity in colonial and postcolonial South Asia, : PB",
+            "author": "edited by Debraj Bhattacharya",
+            "publisher": "Seagull 2008",
+            "isbn": "1905422628 / 9781905422623",
+            "holding": "\u4e2d\u592e 225.06-B39 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=RLC2qTxlOuoC&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 32,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101160?current=33&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Pink globalization : Hello Kitty's trek across the Pacific, : pbk",
+            "author": "Christine R. Yano",
+            "publisher": "Duke University Press 2013",
+            "isbn": "9780822353638",
+            "holding": "\u4e2d\u592e 361.5-Y58 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=LkailjbwhVoC&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 33,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101088?current=34&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "The RH Bill story : contentions and compromises, : pbk",
+            "author": "Marilen J. Da\u00f1guilan",
+            "publisher": "Ateneo de Manila University Press 2018",
+            "isbn": "9789715508834",
+            "holding": "\u4e2d\u592e 334.38-D49 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=nbRdwAEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 34,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101044?current=35&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Stories rarely told, : vol. 2 : Threads from Philippine history",
+            "author": "Augusto V. de Viana",
+            "publisher": "New Day 2018",
+            "isbn": "9789711013653",
+            "holding": "\u4e2d\u592e 224.8-V66 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 35,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101200?current=36&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Subject Siam : family, law, and colonial modernity in Thailand",
+            "author": "Tamara Loos",
+            "publisher": "Cornell University Press 2006",
+            "isbn": "0801443938 / 9780801443930",
+            "holding": "\u4e2d\u592e 223.7-L87 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=C5ZcrsWCCtEC&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 36,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101204?current=37&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Trajectories : Inter-Asia cultural studies, : pbk",
+            "author": "edited by Kuan-Hsing Chen/with Hsiu-Ling Kuo, Hans Hang and Hsu Ming-Chu",
+            "publisher": "Routledge 1998",
+            "isbn": "0415153247",
+            "holding": "\u4e2d\u592e 361.5-C38 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=REJSOjfSOUsC&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 37,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101208?current=38&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Transforming modernity : popular culture in Mexico, : pbk",
+            "author": "by N\u00e9stor Garc\u00eda Canclini/translated by Lidia Lozano",
+            "publisher": "University of Texas Press 1993",
+            "isbn": "9780292727595 / 0292727593",
+            "holding": "\u4e2d\u592e 302.56-G21 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=8AcUYQ8w2d0C&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 38,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101255?current=39&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Zinc for coin and brass : bureaucrats, merchants, artisans, and mining laborers in Qing China, ca. 1680s-1830s, : hardback",
+            "author": "by Hailian Chen",
+            "publisher": "Brill 2019",
+            "isbn": "9789004383005",
+            "holding": "\u4e2d\u592e 222.06-C38 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=R705uQEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 39,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101016?current=40&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u90e8\u6728\u539f\u907a\u8de1 : \u798f\u5ca1\u770c\u7cdf\u5c4b\u90e1\u7c95\u5c4b\u753a\u5927\u5b57\u4e0a\u5927\u9688\u6240\u5728\u907a\u8de1\u306e\u8abf\u67fb",
+            "author": "",
+            "publisher": "\u7c95\u5c4b\u753a\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Ka79 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 40,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101027?current=41&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9752\u8449\u907a\u8de1 : \u9752\u8449\u907a\u8de1\u7b2c1\u6b21\u8abf\u67fb\u5831\u544a, 1",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-1 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 41,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101025?current=42&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6709\u7530\u30fb\u5c0f\u7530\u90e8 : \u6709\u7530\u907a\u8de1\u7fa4\u7b2c270\u6b21\u8abf\u67fb\u5831\u544a, 60",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Sa97 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 42,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101062?current=43&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u533b\u5b66\u306e\u305f\u3081\u306e\u30b5\u30f3\u30d7\u30eb\u30b5\u30a4\u30ba\u8a2d\u8a08 : \u81e8\u5e8a\u8a66\u9a13\u30fb\u57fa\u790e\u5b9f\u9a13\u30fb\u75ab\u5b66\u7814\u7a76",
+            "author": "D.Machin [\u307b\u304b] \u8457/\u7530\u4e2d\u53f8\u6717 [\u307b\u304b] \u8a33",
+            "publisher": "\u4eac\u90fd\u5927\u5b66\u5b66\u8853\u51fa\u7248\u4f1a 2022/5",
+            "isbn": "9784814003822",
+            "holding": "\u533b\u5b66 490.7-Ma18 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=H0_5zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 43,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101110?current=44&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e00\u822c\u81e8\u5e8a\u5bb6, \u53e3\u8154\u5916\u79d1\u533b\u306e\u305f\u3081\u306e\u53e3\u8154\u5916\u79d1\u30cf\u30f3\u30c9\u30de\u30cb\u30e5\u30a2\u30eb : \u53e3\u8154\u5916\u79d1YEAR BOOK, '22",
+            "author": "\u65e5\u672c\u53e3\u8154\u5916\u79d1\u5b66\u4f1a\u7de8",
+            "publisher": "\u30af\u30a4\u30f3\u30c6\u30c3\u30bb\u30f3\u30b9\u51fa\u7248 2022/7",
+            "isbn": "9784781208855",
+            "holding": "\u533b\u5b66 497.3-N77-2022 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=cyc5zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 44,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101211?current=45&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5185\u6a4b\u767b\u308a\u4e0a\u308a\u907a\u8de1, \u7b2c6\u5730\u70b9",
+            "author": "",
+            "publisher": "\u7c95\u5c4b\u753a\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Ka79-6 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 45,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100970?current=46&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9d5c\u7fbd\u795e\u793e\u5883\u5185\u907a\u8de1",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a, \u5fb3\u5cf6\u6587\u7406\u5927\u5b66\u6587\u5b66\u90e8\u7de8",
+            "publisher": "\u9ad8\u677e\u5e02, \u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 46,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101151?current=47&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30a8\u30ad\u30b9\u30d1\u30fc\u30c8\u3092\u76ee\u6307\u3059\u5fc3\u81d3\u5f01\u819c\u75c7\u8a3a\u7642\u30cf\u30f3\u30c9\u30d6\u30c3\u30af",
+            "author": "\u5927\u9580\u96c5\u592b\u7de8\u8457",
+            "publisher": "\u4e2d\u5916\u533b\u5b66\u793e 2022/7",
+            "isbn": "9784498136724",
+            "holding": "\u533b\u5b66 493.23-D23 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 47,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101130?current=48&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30a8\u30d3\u30c7\u30f3\u30b9\u306b\u57fa\u3065\u3044\u305f\u5c0f\u5150\u8178\u91cd\u7a4d\u75c7\u306e\u8a3a\u7642\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3, \u6539\u8a02\u7b2c2\u7248",
+            "author": "\u65e5\u672c\u5c0f\u5150\u6551\u6025\u533b\u5b66\u4f1a\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u4f5c\u6210\u59d4\u54e1\u4f1a\u7de8\u96c6",
+            "publisher": "\u3078\u308b\u3059\u51fa\u7248 2022/7",
+            "isbn": "9784867190463",
+            "holding": "\u533b\u5b66 493.934-N77 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=kcNGzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 48,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100958?current=49&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5927\u962a\u5e02\u5317\u533a\u5927\u6df1\u753a\u907a\u8de1\u767a\u6398\u8abf\u67fb\u5831\u544a : \u6885\u7530\u5893\u306e\u8abf\u67fb, 2",
+            "author": "\u5927\u962a\u5e02\u6587\u5316\u8ca1\u5354\u4f1a\u7de8",
+            "publisher": "\u5927\u962a\u5e02\u6587\u5316\u8ca1\u5354\u4f1a 2022/3",
+            "isbn": "9784863051577",
+            "holding": "\u4e2d\u592e 210.263-Ki65-2 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 49,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100981?current=50&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u592a\u7530\u57ce\u8de1 : \u592a\u7530\u4e0a\u753a\u5b85\u5730\u9020\u6210\u5de5\u4e8b\u306b\u4f34\u3046\u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u5831\u544a\u66f8",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u69d9\u91ce\u30cf\u30a6\u30b8\u30f3\u30b0, \u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 50,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101024?current=51&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9999\u690eA\u907a\u8de1 : \u9999\u690eA\u907a\u8de1\u7b2c8\u6b21\u8abf\u67fb\u5831\u544a, 5",
+            "author": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-5 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 51,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101234?current=52&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5b66\u6821\u3068\u751f\u6d3b\u3092\u63a5\u7d9a\u3059\u308b : \u30c9\u30a4\u30c4\u306e\u6539\u9769\u6559\u80b2\u7684\u306a\u6388\u696d\u306e\u7406\u8ad6\u3068\u5b9f\u8df5",
+            "author": "\u7530\u4e2d\u601c\u8457",
+            "publisher": "\u6625\u98a8\u793e 2022/2",
+            "isbn": "9784861107665",
+            "holding": "\u4e2d\u592e 372.34-Ta84 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=z2W2zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 52,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101055?current=53&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u770b\u8b77\u516d\u6cd5, \u4ee4\u548c4\u5e74\u7248",
+            "author": "\u770b\u8b77\u884c\u653f\u7814\u7a76\u4f1a\u7de8\u96c6",
+            "publisher": "\u65b0\u65e5\u672c\u6cd5\u898f\u51fa\u7248 2022/3",
+            "isbn": "9784788289765",
+            "holding": "\u533b\u5b66 498.12-Ko83-2022 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=NwXvzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 53,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101124?current=54&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u611f\u67d3\u75c7\u6d41\u884c\u3092\u8aad\u307f\u89e3\u304f\u6570\u7406",
+            "author": "\u897f\u6d66\u535a\u7de8\u8457/\u5c0f\u6797\u9244\u90ce [\u307b\u304b] \u8457",
+            "publisher": "\u65e5\u672c\u8a55\u8ad6\u793e 2022/7",
+            "isbn": "9784535787599",
+            "holding": "\u533b\u5b66 498.6-N86 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=j0QfzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 54,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100978?current=55&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6728\u592a\u5c0f\u539f\u907a\u8de1",
+            "author": "",
+            "publisher": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 55,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101152?current=56&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5317\u533a\u4e2d\u4e4b\u5cf6\u516d\u4e01\u76ee30-5\u4ed6\u306b\u304a\u3051\u308b\u5efa\u8a2d\u5de5\u4e8b\u306b\u4f34\u3046\u4e2d\u4e4b\u5cf6\u8535\u5c4b\u6577\u8de1\u767a\u6398\u8abf\u67fb\u5831\u544a\u66f8",
+            "author": "\u5927\u962a\u5e02\u6587\u5316\u8ca1\u5354\u4f1a\u7de8",
+            "publisher": "\u5927\u962a\u5e02\u6587\u5316\u8ca1\u5354\u4f1a 2022/2",
+            "isbn": "9784863051546",
+            "holding": "\u4e2d\u592e 210.263-Ki65 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 56,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100982?current=57&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65e7\u5357\u6d77\u9053\u8de1\u30fb\u897f\u4e09\u8c37\u4e2d\u907a\u8de1 : \u5b85\u5730\u9020\u6210\u5de5\u4e8b\u306b\u4f34\u3046\u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u5831\u544a\u66f8",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a, \u4f4f\u5b85\u74b0\u5883\u5de5\u623f 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 57,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101240?current=58&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8fd1\u4ee3\u4e2d\u56fd\u306e\u56fd\u5bb6\u3068\u5546\u4eba : \u7a0e\u653f\u3068\u540c\u696d\u79e9\u5e8f\u306e\u30c0\u30a4\u30ca\u30df\u30af\u30b9",
+            "author": "\u91d1\u5b50\u8087\u8457",
+            "publisher": "\u6709\u5fd7\u820e 2022/7",
+            "isbn": "9784908672583",
+            "holding": "\u4e2d\u592e 332.22-Ka53 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=aho4zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 58,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101076?current=59&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30b2\u30ce\u30e0\u7de8\u96c6\u3068\u533b\u5b66\u30fb\u533b\u7642\u3078\u306e\u5fdc\u7528",
+            "author": "\u5c71\u672c\u5353\u7de8",
+            "publisher": "\u88f3\u83ef\u623f 2022/6",
+            "isbn": "9784785358730",
+            "holding": "\u533b\u5b66 491.69-Y31 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=Mvt6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 59,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101023?current=60&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9855\u5b5d\u5bfa (Kenkouji) \u907a\u8de1 : \u9855\u5b5d\u5bfa\u907a\u8de1\u7b2c1\u6b21\u8abf\u67fb\u306e\u5831\u544a, 1",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-1 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 60,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101048?current=61&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6297\u83cc\u85ac\u306e\u8003\u3048\u65b9\u3001\u4f7f\u3044\u65b9 : \u30b3\u30ed\u30ca\u306e\u6642\u4ee3\u306e\u5dee\u7570, Ver. 5",
+            "author": "\u5ca9\u7530\u5065\u592a\u90ce\u8457",
+            "publisher": "\u4e2d\u5916\u533b\u5b66\u793e 2022/4",
+            "isbn": "9784498117181",
+            "holding": "\u533b\u5b66 492.31-I97 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=lLgDzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 61,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101209?current=62&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ad8\u9e97\u30fb\u671d\u9bae\u6642\u4ee3\u306b\u304a\u3051\u308b\u56fd\u969b\u4ea4\u6d41\u306e\u8af8\u76f8 : \u4f1d\u64ad\u30fb\u63a5\u89e6\u30fb\u53d7\u5bb9",
+            "author": "\u671d\u9bae\u53f2\u7814\u7a76\u4f1a\u7de8\u96c6",
+            "publisher": "\u671d\u9bae\u53f2\u7814\u7a76\u4f1a, \u7dd1\u852d\u66f8\u623f (\u767a\u58f2) 2022/10",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 221-C54-60 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 62,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100965?current=63&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e94\u689d\u5e02\u8fd1\u5185\u53e4\u58b3\u7fa4\u897f\u5c71\u652f\u7fa4 : \u767a\u6398\u8abf\u67fb\u5831\u544a\u66f8",
+            "author": "\u5948\u826f\u770c\u7acb\u6a7f\u539f\u8003\u53e4\u5b66\u7814\u7a76\u6240\u7de8",
+            "publisher": "\u7531\u826f\u5927\u548c\u53e4\u4ee3\u6587\u5316\u7814\u7a76\u5354\u4f1a 2021/6",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.265-G58 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 63,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100973?current=64&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u53e4\u5178\u306e\u672c\u6587\u306f\u306a\u305c\u63fa\u3089\u304e\u3046\u308b\u306e\u304b",
+            "author": "\u6b66\u4e95\u548c\u4eba\u8457",
+            "publisher": "\u65b0\u5178\u793e 2022/4",
+            "isbn": "9784787968616",
+            "holding": "\u4e2d\u592e 911.138-Sh34 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=UoskzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 64,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101081?current=65&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30b3\u30ed\u30ca\u798d\u3068\u30c8\u30ea\u30a2\u30fc\u30b8\u3092\u554f\u3046 : \u793e\u4f1a\u304c\u547d\u3092\u9078\u5225\u3059\u308b\u3068\u3044\u3046\u3053\u3068",
+            "author": "\u571f\u4e95\u5065\u53f8, \u7530\u5742\u3055\u3064\u304d, \u52a0\u85e4\u6cf0\u53f2\u7de8\u8457",
+            "publisher": "\u9752\u5f13\u793e 2022/5",
+            "isbn": "9784787235053",
+            "holding": "\u533b\u5b66 490.15-D83 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=6HgmzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 65,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101137?current=66&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30b5\u30f3\u30d5\u30a9\u30fc\u30c9\u611f\u67d3\u75c7\u6cbb\u7642\u30ac\u30a4\u30c9 : \u65e5\u672c\u8a9e\u7248, 2022",
+            "author": "David N. Gilbert [\u307b\u304b] \u7de8\u96c6/\u938c\u7530\u5553\u4f51 [\u307b\u304b] \u65e5\u672c\u8a9e\u7248\u7ffb\u8a33",
+            "publisher": "\u30e9\u30a4\u30d5\u30b5\u30a4\u30a8\u30f3\u30b9\u51fa\u7248 2022/8",
+            "isbn": "9784897754536",
+            "holding": "\u533b\u5b66 493.8-G44-2022 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=cCk6zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 66,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100977?current=67&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8272\u5f69\u306e\u30c7\u30b6\u30a4\u30f3\u56f3\u9451",
+            "author": "\u30c6\u30a3\u30e0\u30fb\u30c8\u30e9\u30f4\u30a3\u30b9\u7de8/\u4e95\u4e0a\u96c5\u4eba, \u6a4b\u672c\u512a\u5b50\u8a33",
+            "publisher": "\u6771\u4eac\u66f8\u7c4d 2022/3",
+            "isbn": "9784487815173",
+            "holding": "\u4f53\u82b8 757.3-Tr2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=hurqzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 67,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100972?current=68&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u53f2\u96c6\u9ad8\u677e, \u7b2c2\u53f7",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8\u96c6",
+            "publisher": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42-2 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 68,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100976?current=69&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u53f2\u8de1\u9ad8\u677e\u57ce\u8de1 (\u685c\u5fa1\u9580\u77f3\u57a3\u6574\u5099)",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8\u96c6",
+            "publisher": "\u9ad8\u677e\u5e02, \u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 69,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101060?current=70&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5b9f\u8df5\u30b0\u30ed\u30fc\u30d0\u30eb\u30d8\u30eb\u30b9 : \u73fe\u5834\u306b\u304a\u3051\u308b\u5b9f\u8df5\u529b\u5411\u4e0a\u3092\u3081\u3056\u3057\u3066, \u65b0\u8a02\u7248",
+            "author": "\u65e5\u672c\u56fd\u969b\u4fdd\u5065\u533b\u7642\u5b66\u4f1a\u7de8/\u795e\u99ac\u5f81\u5cf0\u7de8\u8005\u4ee3\u8868",
+            "publisher": "\u674f\u6797\u66f8\u9662 2022/4",
+            "isbn": "9784764405417",
+            "holding": "\u533b\u5b66 498-N77 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=yNogzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 70,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101046?current=71&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5b9f\u8df5\u7d30\u80de\u8a3a\u30c6\u30ad\u30b9\u30c8 : \u521d\u5fc3\u8005\u304b\u3089\u30a8\u30ad\u30b9\u30d1\u30fc\u30c8\u307e\u3067, \u6539\u8a02\u7248",
+            "author": "\u5357\u96f2\u30b5\u30c1\u5b50, \u68ee\u4e95\u82f1\u4e00\u7de8\u8457",
+            "publisher": "\u5927\u962a\u5927\u5b66\u51fa\u7248\u4f1a 2022/3",
+            "isbn": "9784872597554",
+            "holding": "\u533b\u5b66 492.19-N27 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=r0z3zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 71,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100975?current=72&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u91cd\u8981\u6587\u5316\u8ca1\u62ab\u96f2\u95a3 (\u65e7\u677e\u5e73\u5bb6\u9ad8\u677e\u5225\u90b8) : \u8607\u9244\u306e\u9593\u8010\u9707\u88dc\u5f37\u5de5\u4e8b\u5831\u544a\u66f8",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u9ad8\u677e\u5e02, \u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 72,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100967?current=73&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5e84\u7530\u5de5\u7530\u7aaf\u8de1\u7b2c4\u6b21\u767a\u6398\u8abf\u67fb\u6982\u5831",
+            "author": "\u5ca1\u5c71\u7406\u79d1\u5927\u5b66\u751f\u7269\u5730\u7403\u5b66\u90e8\u8003\u53e4\u5b66\u7814\u7a76\u5ba4\u7de8",
+            "publisher": "\u5ca1\u5c71\u7406\u79d1\u5927\u5b66\u751f\u7269\u5730\u7403\u5b66\u90e8\u8003\u53e4\u5b66\u7814\u7a76\u5ba4 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.275-Se93 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 73,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101053?current=74&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5c0f\u5150\u304c\u3093\u7d4c\u9a13\u8005\u306e\u60a3\u8005\u4f1a\u53c2\u52a0\u30d7\u30ed\u30bb\u30b9\u306e\u63a2\u7a76 : \u4ef2\u9593\u3068\u306e\u51fa\u4f1a\u3044\u3078\u306e\u671f\u5f85\u3068\u60a3\u8005\u4f1a\u6d3b\u52d5\u306e\u53ef\u80fd\u6027",
+            "author": "\u83f1\u30f6\u6c5f\u60e0\u5b50\u8457",
+            "publisher": "\u660e\u77f3\u66f8\u5e97 2022/3",
+            "isbn": "9784750353821",
+            "holding": "\u533b\u5b66 369.9-H76 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=ulD-zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 74,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101172?current=75&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u662d\u548c\u30e2\u30c0\u30f3\u770b\u677f\u30c7\u30b6\u30a4\u30f31920-30s : \u30b7\u30e7\u30fc\u30a6\u30a4\u30f3\u30c9\u30fc\u3001\u5e97\u8217\u5185\u88c5\u3001\u30c7\u30a3\u30b9\u30d7\u30ec\u30a4\u306a\u3069\u3002\u8857\u89d2\u30a2\u30a4\u30c7\u30a2\u96c6!",
+            "author": "\u9752\u5e7b\u820e\u7de8\u96c6\u90e8\u7de8",
+            "publisher": "\u9752\u5e7b\u820e 2022/7",
+            "isbn": "9784861528750",
+            "holding": "\u4f53\u82b8 674.3-Se17 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=nrf9zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 75,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101167?current=76&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u662d\u548c\u30e2\u30c0\u30f3\u5e83\u544a\u30c7\u30b6\u30a4\u30f31920-30s : \u30dd\u30b9\u30bf\u30fc\u3001\u30c1\u30e9\u30b7\u3001\u30de\u30c3\u30c1\u306a\u3069\u3002\u7d19\u3082\u306e\u5927\u96c6\u5408!",
+            "author": "\u9752\u5e7b\u820e\u7de8\u96c6\u90e8\u7de8",
+            "publisher": "\u9752\u5e7b\u820e 2022/7",
+            "isbn": "9784861528743",
+            "holding": "\u4f53\u82b8 674.3-Se17 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=Muv5zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 76,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101049?current=77&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5fc3\u81d3\u30da\u30fc\u30b7\u30f3\u30b0\u306e\u3059\u3079\u3066, \u6539\u8a023\u7248",
+            "author": "\u77f3\u5ddd\u5229\u4e4b\u8457",
+            "publisher": "\u4e2d\u5916\u533b\u5b66\u793e 2022/3",
+            "isbn": "9784498136700",
+            "holding": "\u533b\u5b66 494.643-I76 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 77,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101153?current=78&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65b0\u8a33\u6771\u6d0b\u306e\u7406\u60f3 : \u5ca1\u5009\u5929\u5fc3\u306e\u7f8e\u8853\u601d\u60f3",
+            "author": "\u5ca1\u5009\u899a\u4e09\u8457/\u53e4\u7530\u4eae\u8457\u30fb\u8a33/\u53e4\u7530\u4eae, \u82b9\u751f\u6625\u83dc\u8a33\u6ce8",
+            "publisher": "\u5e73\u51e1\u793e 2022/6",
+            "isbn": "9784582288162",
+            "holding": "\u4f53\u82b8 702.1-O41 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=hwqMzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 78,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101232?current=79&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u814e\u85ac\u30c9\u30ea\u30eb : \u814e\u81d3\u75c5\u85ac\u7269\u7642\u6cd5\u306e\u77e5\u8b58\u30fb\u7406\u8ad6\u3092\u81e8\u5e8a\u306b\u7d50\u3073\u3064\u3051\u308b\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0",
+            "author": "\u6d66\u7530\u5143\u6a39\u7de8\u96c6",
+            "publisher": "\u3058\u307b\u3046 2021/10",
+            "isbn": "9784840753807",
+            "holding": "\u533b\u5b66 494.93-U84 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=lvWuzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 79,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101183?current=80&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30b9\u30dd\u30fc\u30c4\u3067\u5f79\u7acb\u3064\u30c1\u30fc\u30e0\u30ef\u30fc\u30af\u306e\u5f37\u5316\u66f8 : \u300c\u500b\u300d\u3092\u751f\u304b\u3059\u30c1\u30fc\u30e0\u30d3\u30eb\u30c7\u30a3\u30f3\u30b0",
+            "author": "\u798f\u5bcc\u4fe1\u4e5f\u8457",
+            "publisher": "\u30ab\u30f3\u30bc\u30f3 2022/7",
+            "isbn": "9784862556394",
+            "holding": "\u4f53\u82b8 780.7-F84 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=FYzrzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 80,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101064?current=81&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7cbe\u795e\u30fb\u5fc3\u7406\u75c7\u72b6\u5b66\u30cf\u30f3\u30c9\u30d6\u30c3\u30af, \u7b2c4\u7248",
+            "author": "\u5317\u6751\u4fca\u5247\u8457",
+            "publisher": "\u65e5\u672c\u8a55\u8ad6\u793e 2022/5",
+            "isbn": "9784535985193",
+            "holding": "\u533b\u5b66 493.72-Ki68 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=-qj9zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 81,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101118?current=82&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8056\u5f92\u306e\u9769\u547d : \u6025\u9032\u7684\u653f\u6cbb\u306e\u8d77\u6e90",
+            "author": "\u30de\u30a4\u30b1\u30eb\u30fb\u30a6\u30a9\u30eb\u30c4\u30a1\u30fc\u8457",
+            "publisher": "\u98a8\u884c\u793e 2022/3",
+            "isbn": "9784862581419",
+            "holding": "\u4e2d\u592e 233.052-W37 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=WZbwzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 82,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101026?current=83&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6cc9\u5c4b\u535a\u53e4\u9928\u540d\u54c1\u907899/Sen-oku Hakukokan Museum best selection 99",
+            "author": "\u6cc9\u5c4b\u535a\u53e4\u9928\u7de8\u8457",
+            "publisher": "\u9752\u5e7b\u820e 2022/3",
+            "isbn": "9784861528798",
+            "holding": "\u4f53\u82b8 706.9-Se72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=JCrwzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 83,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101040?current=84&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6226\u5f8c\u524d\u885b\u66f8\u306b\u898b\u308b\u66f8\u306e\u30e2\u30c0\u30cb\u30ba\u30e0 : \u300c\u65e5\u672c\u8fd1\u4ee3\u7f8e\u8853\u300d\u3092\u5468\u7e01\u304b\u3089\u554f\u3044\u76f4\u3059",
+            "author": "\u5411\u4e95\u6643\u5b50\u8457",
+            "publisher": "\u4e09\u5143\u793e 2022/5",
+            "isbn": "9784883035397",
+            "holding": "\u4f53\u82b8 728.21-Mu24 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=DTQtzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 84,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101186?current=85&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6226\u6642\u4e0b\u306e\u30ce\u30fc\u30b5\u30a4\u30c9 : \u5927\u5b66\u30e9\u30b0\u30d3\u30fc\u90e8\u54e1\u305f\u3061\u306e\u751f\u3068\u6b7b",
+            "author": "\u65e9\u5742\u9686\u8457",
+            "publisher": "\u3055\u304f\u3089\u820e 2022/7",
+            "isbn": "9784865813494",
+            "holding": "\u4f53\u82b8 783.48-H47 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=n0cuzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 85,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101032?current=86&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5168\u4ed5\u4e8b",
+            "author": "\u9688\u7814\u543e\u8457",
+            "publisher": "\u5927\u548c\u66f8\u623f 2022/6",
+            "isbn": "9784479393900",
+            "holding": "\u4f53\u82b8 521.6-Ku31 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=9HYtzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 86,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101147?current=87&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5598\u606f\u8a3a\u7642\u5b9f\u8df5\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3, 2022",
+            "author": "\u65e5\u672c\u5598\u606f\u5b66\u4f1a\u4f5c\u6210/\u5354\u548c\u4f01\u753b\u7de8\u96c6",
+            "publisher": "\u5354\u548c\u4f01\u753b (\u767a\u58f2) 2022/7",
+            "isbn": "9784877942212",
+            "holding": "\u533b\u5b66 493.36-N77-2022 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=LqhJzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 87,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4098954?current=88&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5360\u9818\u6539\u9769\u3068\u5b97\u6559 : \u9023\u5408\u56fd\u306e\u5bfe\u30a2\u30b8\u30a2\u653f\u7b56\u3068\u8907\u6570\u306e\u6226\u5f8c\u4e16\u754c",
+            "author": "\u4e2d\u91ce\u6bc5 [\u307b\u304b] \u7de8",
+            "publisher": "\u5c02\u4fee\u5927\u5b66\u51fa\u7248\u5c40 2022/9",
+            "isbn": "9784881253731",
+            "holding": "\u4e2d\u592e 165.9-N39 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=qFNIzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 88,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101022?current=89&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ad8\u7bc0 (\u305f\u304b\u3075\u3057) \u907a\u8de1 : \u9ad8\u7bc0\u907a\u8de1\u7b2c2\u6b21\u8abf\u67fb\u5831\u544a, 1",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-1 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 89,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100971?current=90&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ad8\u677e\u5e02\u5185\u907a\u8de1\u767a\u6398\u8abf\u67fb\u6982\u5831 : \u56fd\u5eab\u88dc\u52a9\u4e8b\u696d, \u4ee4\u548c3\u5e74\u5ea6",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42-2021 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 90,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100980?current=91&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ad8\u677e\u5e02\u5185\u6240\u5728\u5233\u629c\u5f0f\u77f3\u68fa\u8abf\u67fb\u5831\u544a\u66f8, 2",
+            "author": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u9ad8\u677e\u5e02, \u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42-2 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 91,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101021?current=92&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7530\u6751 : \u7530\u6751\u907a\u8de1\u7b2c27\u6b21\u8abf\u67fb\u306e\u5831\u544a, 19",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Sa97-19 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 92,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101155?current=93&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u305f\u3080\u3089\u3057\u3052\u308b\u4f5c\u54c1\u96c6 : Ultramarine Deep",
+            "author": "\u305f\u3080\u3089\u3057\u3052\u308b[\u753b]",
+            "publisher": "\u7384\u5149\u793e 2022/7",
+            "isbn": "9784768316337",
+            "holding": "\u4f53\u82b8 726.5-Ta82 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=ufUszwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 93,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101029?current=94&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u3060\u308c\u3067\u3082\u3067\u304d\u308b\u300c\u8d85\u7c21\u5358\u300d\u30b9\u30b1\u30c3\u30c1&\u30d1\u30fc\u30b9, \u5897\u88dc\u6539\u8a02\u7248",
+            "author": "\u6751\u5c71\u9686\u53f8\u8457",
+            "publisher": "\u30a8\u30af\u30b9\u30ca\u30ec\u30c3\u30b8 2022/3",
+            "isbn": "9784767830056",
+            "holding": "\u4f53\u82b8 525.18-Mu62 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=30v4zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 94,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101243?current=95&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e2d\u56fd\u306e\u30e1\u30c7\u30a3\u30a2\u30fb\u8868\u8c61\u3068\u30b8\u30a7\u30f3\u30c0\u30fc",
+            "author": "\u4e2d\u56fd\u5973\u6027\u53f2\u7814\u7a76\u4f1a\u7de8",
+            "publisher": "\u7814\u6587\u51fa\u7248 (\u5c71\u672c\u66f8\u5e97\u51fa\u7248\u90e8) 2016/9",
+            "isbn": "9784876364107",
+            "holding": "\u4e2d\u592e 367.222-C62 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 95,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101180?current=96&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5e1d\u56fd\u30b9\u30da\u30a4\u30f3\u4ea4\u901a\u3059\u308b\u7f8e\u8853",
+            "author": "\u5ca1\u7530\u88d5\u6210\u7de8",
+            "publisher": "\u4e09\u5143\u793e 2022/6",
+            "isbn": "9784883035502",
+            "holding": "\u4f53\u82b8 702.36-O38 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=wF45zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 96,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101036?current=97&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u624b\u306e\u4e2d\u306b\u62b1\u304f\u5b87\u5b99 : \u30a4\u30b1\u30e0\u30e9\u30ec\u30a4\u30b3+\u5869\u7530\u5343\u6625\u5bfe\u8a71\u96c6/Holding the universe in the hand",
+            "author": "\u30a4\u30b1\u30e0\u30e9\u30ec\u30a4\u30b3, \u5869\u7530\u5343\u6625\u8457",
+            "publisher": "\u30ab\u30eb\u30c1\u30e5\u30a2\u30fb\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30fb\u30af\u30e9\u30d6, \u7f8e\u8853\u51fa\u7248\u793e\u30c7\u30b6\u30a4\u30f3\u30bb\u30f3\u30bf\u30fc, \u7f8e\u8853\u51fa\u7248\u793e (\u767a\u58f2) 2022/4",
+            "isbn": "9784568105421",
+            "holding": "\u4f53\u82b8 702.16-I33 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=SNcIzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 97,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101068?current=98&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30c7\u30fc\u30bf\u3092\u7591\u3046\u529b : \u6570\u5b66\u529b\u3088\u308a\u8ad6\u7406\u529b\u6587\u7cfb\u306b\u3053\u305d\u8aad\u3093\u3067\u307b\u3057\u304424\u8a71",
+            "author": "\u9ebb\u751f\u4e00\u679d\u8457",
+            "publisher": "\u6771\u4eac\u56f3\u66f8\u51fa\u7248, \u30ea\u30d5\u30ec\u51fa\u7248 (\u767a\u58f2) 2022/7",
+            "isbn": "9784866415420",
+            "holding": "\u4e2d\u592e 417-A93 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=hwo7zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 98,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101235?current=99&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30c9\u30a4\u30c4\u306f\u30b7\u30d3\u30ea\u30a2\u30f3\u30d1\u30ef\u30fc\u304b\u3001\u666e\u901a\u306e\u5927\u56fd\u304b? : \u30c9\u30a4\u30c4\u306e\u5916\u4ea4\u653f\u7b56\u3068\u653f\u7b56\u7406\u5ff5\u306e\u5371\u6a5f\u3068\u9769\u65b0",
+            "author": "\u4e2d\u5ddd\u6d0b\u4e00\u8457",
+            "publisher": "\u6cd5\u5f8b\u6587\u5316\u793e 2020/9",
+            "isbn": "9784589040978",
+            "holding": "\u4e2d\u592e 319.34-N32 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=z5zTzQEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 99,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100957?current=100&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D1%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8c4a\u5d0e\u907a\u8de1\u767a\u6398\u8abf\u67fb\u5831\u544a : \u5927\u962a\u5e02\u5317\u533a",
+            "author": "\u5927\u962a\u5e02\u6587\u5316\u8ca1\u5354\u4f1a\u7de8\u96c6",
+            "publisher": "\u5927\u962a\u5e02\u6587\u5316\u8ca1\u5354\u4f1a 2022/3",
+            "isbn": "9784863051560",
+            "holding": "\u4e2d\u592e 210.263-Ki65 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 100,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100966?current=101&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8c4a\u7530\u30c8\u30f3\u30c9\u5c71\u53e4\u58b3/\u8c4a\u7530\u30c8\u30f3\u30c9\u5c71\u57ce\u8de1 : \u5e73\u621024\uff5e26\u5e74\u5ea6\u90fd\u5e02\u8a08\u753b\u9053\u8def\u5225\u6240\u4e39\u6ce2\u5e02\u7dda\u4e8b\u696d\u306b\u4f34\u3046\u8abf\u67fb",
+            "author": "\u5929\u7406\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u5929\u7406\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.265-Te37 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 101,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101050?current=102&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u90a3\u73c2 : \u90a3\u73c2\u907a\u8de1\u7fa4\u7b2c172\u6b21\u8abf\u67fb\u306e\u5831\u544a, 83",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17-83 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 102,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101015?current=103&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4ef2\u539f\u6c60\u30ce\u5185\u907a\u8de1\u7b2c2\u5730\u70b9 : \u798f\u5ca1\u770c\u7cdf\u5c4b\u90e1\u7c95\u5c4b\u753a\u4ef2\u539f\u4e8c\u4e01\u76ee\u6240\u5728\u907a\u8de1\u306e\u8abf\u67fb",
+            "author": "",
+            "publisher": "\u7c95\u5c4b\u753a\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Ka79 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 103,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100963?current=104&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5948\u826f\u770c\u907a\u8de1\u8abf\u67fb\u6982\u5831, 2021\u5e74\u5ea6\u7b2c1\u5206\u518a",
+            "author": "\u5948\u826f\u770c\u7acb\u6a7f\u539f\u8003\u53e4\u5b66\u7814\u7a76\u6240\u7de8",
+            "publisher": "\u5948\u826f\u770c\u7acb\u6a7f\u539f\u8003\u53e4\u5b66\u7814\u7a76\u6240 2022/3",
+            "isbn": "9784910272092",
+            "holding": "\u4e2d\u592e 210.265-N51-2021-1 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 104,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100959?current=105&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5948\u826f\u770c\u907a\u8de1\u8abf\u67fb\u6982\u5831, 2020\u5e74\u5ea6\u7b2c2\u5206\u518a",
+            "author": "\u5948\u826f\u770c\u7acb\u6a7f\u539f\u8003\u53e4\u5b66\u7814\u7a76\u6240\u7de8",
+            "publisher": "\u5948\u826f\u770c\u7acb\u6a7f\u539f\u8003\u53e4\u5b66\u7814\u7a76\u6240 2021/12",
+            "isbn": "9784910272030",
+            "holding": "\u4e2d\u592e 210.265-N51-2020-2 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 105,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101192?current=106&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65e5\u672c\u8fd1\u4ee3\u5efa\u7bc9\u4eba\u540d\u7dcf\u89a7, \u5897\u88dc\u7248",
+            "author": "\u5800\u52c7\u826f\u8457",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e 2022/7",
+            "isbn": "9784120055508",
+            "holding": "\u4f53\u82b8 520.33-H87 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=6pY4zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 106,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101043?current=107&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65e5\u672c\u3067\u3057\u304b\u89b3\u3089\u308c\u306a\u3044\u4e16\u754c\u306e\u540d\u753b",
+            "author": "\u5ca1\u90e8\u660c\u5e78\u8457",
+            "publisher": "\u9752\u6625\u51fa\u7248\u793e 2022/6",
+            "isbn": "9784413211932",
+            "holding": "\u4f53\u82b8 723-O37 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=OPMszwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 107,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101057?current=108&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7bb1\u5d0e : \u7bb1\u5d0e\u907a\u8de1\u7b2c100\u6b21\u8abf\u67fb\u5831\u544a, 62",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-62 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 108,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101056?current=109&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7bb1\u5d0e : \u7bb1\u5d0e\u907a\u8de1\u7b2c101\u6b21\u8abf\u67fb\u5831\u544a, 63",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-63 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 109,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101061?current=110&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7bb1\u5d0e : \u7bb1\u5d0e\u907a\u8de1\u7b2c90\u6b21\u8abf\u67fb\u5831\u544a, 59",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-59 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 110,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101059?current=111&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7bb1\u5d0e : \u7bb1\u5d0e\u907a\u8de1\u7b2c95\u6b21\u8abf\u67fb\u5831\u544a, 60",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-60 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 111,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101058?current=112&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7bb1\u5d0e : \u7bb1\u5d0e\u907a\u8de1\u7b2c97\u6b21\u8abf\u67fb\u5831\u544a, 61",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55-61 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 112,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101014?current=113&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7bb1\u5d0e\u30ad\u30e3\u30f3\u30d1\u30b9\u5730\u533a\u5143\u5bc7\u9632\u5841\u8abf\u67fb\u7dcf\u62ec\u5831\u544a\u66f8",
+            "author": "",
+            "publisher": "\u4e5d\u5dde\u5927\u5b66\u57cb\u8535\u6587\u5316\u8ca1\u8abf\u67fb\u5ba4 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H55 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 113,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100956?current=114&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7fbd\u66f3\u91ce\u5e02\u5185\u907a\u8de1\u8abf\u67fb\u5831\u544a\u66f8, \u4ee4\u548c\u5143\u5e74\u5ea6",
+            "author": "",
+            "publisher": "\u7fbd\u66f3\u91ce\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u4e16\u754c\u907a\u7523\u30fb\u6587\u5316\u8ca1\u7dcf\u5408\u7ba1\u7406\u5ba4\u6587\u5316\u8ca1\u8ab2 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.263-H11-2019 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 114,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101054?current=115&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u539f\u907a\u8de1 : \u539f\u907a\u8de1\u7b2c36\u6b21\u8abf\u67fb\u5831\u544a, 22",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Sa97-22 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 115,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101051?current=116&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6bd4\u6075 : \u7b2c152\u6b21\u8abf\u67fb\u5831\u544a, 89",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17-89 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 116,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101028?current=117&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6bd4\u6075\u907a\u8de1\u7fa4\u7b2c138\u6b21\u30fb149\u6b21\u3001\u90a3\u73c2\u907a\u8de1\u7fa4\u7b2c158\u6b21\u8abf\u67fb\u306e\u5831\u544a",
+            "author": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 117,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101042?current=118&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6771\u90a3\u73c2\u907a\u8de1 : \u7b2c8\u6b21\u8abf\u67fb\u5831\u544a, 6",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/6",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17-6 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 118,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100979?current=119&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5e73\u585a1\u53f7\u585a",
+            "author": "",
+            "publisher": "\u9ad8\u677e\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 119,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101041?current=120&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u798f\u5ca1\u57ce\u4e0b\u753a\u907a\u8de1 : \u7b2c4\u6b21\u8abf\u67fb\u5831\u544a, 2",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-C66-2 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 120,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4096977?current=121&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30d6\u30c3\u30c0\u306e\u5927\u3044\u306a\u308b\u7269\u8a9e : \u68b5\u6587\u300e\u30de\u30cf\u30fc\u30f4\u30a1\u30b9\u30c8\u30a5\u300f\u5168\u8a33, \u4e0b\u5dfb",
+            "author": "\u5e73\u5ca1\u8061\u8457",
+            "publisher": "\u5927\u8535\u51fa\u7248 2010/7",
+            "isbn": "9784804305769",
+            "holding": "\u4e2d\u592e 929.88-H67-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=kq1qbwAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 121,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100955?current=122&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u53e4\u5e02\u907a\u8de1\u7fa4, 43",
+            "author": "",
+            "publisher": "\u7fbd\u66f3\u91ce\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a\u4e16\u754c\u907a\u7523\u30fb\u6587\u5316\u8ca1\u7dcf\u5408\u7ba1\u7406\u5ba4\u6587\u5316\u8ca1\u8ab2 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.263-H11-43 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 122,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101233?current=123&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30d6\u301c\u30b1\u3092\u624b\u308f\u305f\u3059 : \u77e5\u7684\u969c\u5bb3\u8005\u306e\u604b\u611b\u30fb\u7d50\u5a5a\u30fb\u5b50\u80b2\u3066",
+            "author": "\u5e73\u4e95\u5a01, \u300c\u3076\u30fc\u3051\u300d\u5171\u540c\u7814\u7a76\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u8457",
+            "publisher": "\u5b66\u8853\u7814\u7a76\u51fa\u7248 / \u30d6\u30c3\u30af\u30a6\u30a7\u30a4 2016/5",
+            "isbn": "9784865841374",
+            "holding": "\u4e2d\u592e 369.28-H64 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 123,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100964?current=124&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7ffb\u8a33\u3068\u901a\u8a33\u306e\u904e\u53bb\u30fb\u73fe\u5728\u30fb\u672a\u6765 : \u591a\u8a00\u8a9e\u3068\u591a\u6587\u5316\u3092\u7d50\u3093\u3067",
+            "author": "\u6cc9\u6c34\u6d69\u9686\u7de8",
+            "publisher": "\u4e09\u4fee\u793e 2022/3",
+            "isbn": "9784384060225",
+            "holding": "\u4e2d\u592e 801.7-Se73 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=U-HszgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 124,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100968?current=125&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u898b\u5cf6\u30b8\u30fc\u30b3\u30f3\u30dc\u53e4\u58b3\u7fa4 : \u6771\u90e8\u57df\u51fa\u571f\u8cc7\u6599\u8abf\u67fb\u5831\u544a",
+            "author": "\u5c71\u53e3\u5927\u5b66\u57cb\u8535\u6587\u5316\u8ca1\u8cc7\u6599\u9928\u7de8",
+            "publisher": "\u5c71\u53e3\u5927\u5b66 2022/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.277-H13 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 125,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101039?current=126&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e09\u5b85\u907a\u8de1\u7fa4 : \u7b2c7\u6b21\u8abf\u67fb\u5831\u544a, 1",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-Mi37-1 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 126,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101012?current=127&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u540d\u907a\u8de1",
+            "author": "\u9999\u5ddd\u770c\u57cb\u8535\u6587\u5316\u8ca1\u30bb\u30f3\u30bf\u30fc\u7de8",
+            "publisher": "\u9999\u5ddd\u770c\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ma54 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 127,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101047?current=128&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ea6\u91ceA\u907a\u8de1 : \u7b2c28\u6b21\u8abf\u67fb\u5831\u544a, 11",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17-11 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 128,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101045?current=129&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ea6\u91ceC\u907a\u8de1 : \u7b2c17\u6b21\u8abf\u67fb, 10",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17-10 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 129,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101030?current=130&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5409\u585a : \u5409\u585a\u907a\u8de1\u7b2c18\u6b21\u8abf\u67fb\u5831\u544a, 12",
+            "author": "",
+            "publisher": "\u798f\u5ca1\u5e02\u6559\u80b2\u59d4\u54e1\u4f1a 2021/3",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.291-H17-12 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 130,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101210?current=131&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30e9\u30de\u30f3\u5206\u5149\u30b9\u30da\u30af\u30c8\u30eb\u30c7\u30fc\u30bf\u89e3\u6790\u4e8b\u4f8b\u96c6",
+            "author": "\u6280\u8853\u60c5\u5831\u5354\u4f1a\u4f01\u753b\u7de8\u96c6",
+            "publisher": "\u6280\u8853\u60c5\u5831\u5354\u4f1a 2022/2",
+            "isbn": "9784861048722",
+            "holding": "\u4e2d\u592e 433.57-G43 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=VF31zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 131,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4101013?current=132&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u516d\u6761\u4e0b\u6240\u907a\u8de1",
+            "author": "\u9999\u5ddd\u770c\u57cb\u8535\u6587\u5316\u8ca1\u30bb\u30f3\u30bf\u30fc\u7de8\u96c6",
+            "publisher": "\u9999\u5ddd\u770c\u6559\u80b2\u59d4\u54e1\u4f1a 2021/2",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 210.282-Ta42 \u57cb\u8535\u6587\u5316\u8ca1\u767a\u6398\u8abf\u67fb\u8cc7\u6599(\u65e5\u672c)",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 132,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100676?current=133&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "3.11\u306e\u8a18\u9332 : \u6771\u65e5\u672c\u5927\u9707\u707d\u8cc7\u6599\u7dcf\u89a7, 2\u671f",
+            "author": "\u5c71\u7530\u5065\u592a [\u307b\u304b] \u5171\u7de8",
+            "publisher": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4 2022/7",
+            "isbn": "9784816929281",
+            "holding": "\u4e2d\u592e 369.31-Y19 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=1cE3zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 133,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100696?current=134&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "The Cambridge introduction to Charles Dickens, : pbk",
+            "author": "Jon Mee",
+            "publisher": "Cambridge University Press 2010",
+            "isbn": "9780521676342",
+            "holding": "\u4e2d\u592e 930.28-D72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=_q_tLgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 134,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100685?current=135&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "The confessional fictions of Charles Dickens",
+            "author": "by Barry Westburg",
+            "publisher": "Northern Illinois University Press 1977",
+            "isbn": "0875800653",
+            "holding": "\u4e2d\u592e 930.28-D72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 135,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100922?current=136&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "C\u8a00\u8a9e : \u30bc\u30ed\u304b\u3089\u306f\u3058\u3081\u308b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0, \u65b0\u7248",
+            "author": "\u4e09\u8c37\u7d14\u8457",
+            "publisher": "\u7fd4\u6cf3\u793e 2022/9",
+            "isbn": "9784798174655",
+            "holding": "\u4e2d\u592e 007.64-Mi58 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=xzRIzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 136,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100679?current=137&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Dickens : a biography",
+            "author": "Fred Kaplan",
+            "publisher": "Sceptre 1989",
+            "isbn": "0340506148",
+            "holding": "\u4e2d\u592e 930.28-D72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 137,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100868?current=138&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Droit des obligations, 18e \u00e9d",
+            "author": "Alain B\u00e9nabent",
+            "publisher": "LGDJ, Lextenso 2019",
+            "isbn": "9782275066110",
+            "holding": "\u5927\u585a 324.935-B35 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=cTpCygEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 138,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100841?current=139&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Droit des obligations, 13e \u00e9d",
+            "author": "Philippe Malinvaud, Dominique Fenouillet, Mustapha Mekki",
+            "publisher": "Litec, LexisNexis 2014",
+            "isbn": "9782711020911",
+            "holding": "\u5927\u585a 324.935-Ma39 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 139,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100874?current=140&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Droit des s\u00fbret\u00e9s, 3e \u00e9d",
+            "author": "St\u00e9phane Pi\u00e9deli\u00e8vre",
+            "publisher": "Ellipses 2022",
+            "isbn": "9782340063952",
+            "holding": "\u5927\u585a 324.935-P61 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 140,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100854?current=141&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Le droit du cr\u00e9dit \u00e0 la consommation : 10 ans apr\u00e8s la loi Lagarde",
+            "author": "J\u00e9r\u00f4me Lasserre Capdeville",
+            "publisher": "LGDJ, Lextenso 2021",
+            "isbn": "9782275078472",
+            "holding": "\u5927\u585a 338.7-L33 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 141,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100866?current=142&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "L'essentiel des grands arr\u00eats du droit des obligations, 7 \u00e9d., 2015-2016",
+            "author": "Fr\u00e9d\u00e9ric Buy",
+            "publisher": "Gualino, Lextenso 2015",
+            "isbn": "9782297047487",
+            "holding": "\u5927\u585a 324.935-B97 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=gSVaCgAAQBAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 142,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100670?current=143&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Feminism, breasts, and breast-feeding, : us",
+            "author": "Pam Carter/foreword by Mary Evans/consultant editor, Jo Campling",
+            "publisher": "Macmillan, St. Martin's Press",
+            "isbn": "0312126255",
+            "holding": "\u4e2d\u592e 367.1-C23 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=OwJrQgAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 143,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100658?current=144&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Heart of darkness : a case study in contemporary criticism, : U.S., hard",
+            "author": "Joseph Conrad/edited with introductions by Ross C. Murfin",
+            "publisher": "St. Martin's Press, Macmillan 1989",
+            "isbn": "0312030266",
+            "holding": "\u4e2d\u592e 933.9-C86 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 144,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100664?current=145&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Joseph Conrad : achievement and decline",
+            "author": "by Thomas Moser",
+            "publisher": "Archon Books 1966",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 930.29-C86 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 145,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100666?current=146&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Joseph Conrad and the adventure tradition : constructing and deconstructing the imperial subject, : hbk",
+            "author": "Andrea White",
+            "publisher": "Cambridge University Press 1993",
+            "isbn": "052141606X",
+            "holding": "\u4e2d\u592e 930.29-C86 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=iH4duANYjIEC&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 146,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100691?current=147&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "A medical companion to Dickens's fiction, : gw",
+            "author": "Joanne Eysell",
+            "publisher": "P. Lang 2005",
+            "isbn": "3631541236",
+            "holding": "\u4e2d\u592e 930.28-D72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=XmLFGQAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 147,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100677?current=148&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Milk, money, and madness : the culture and politics of breastfeeding",
+            "author": "Naomi Baumslag and Dia L. Michels/foreword by Richard Jolly",
+            "publisher": "Bergin & Garvey 1995",
+            "isbn": "0897894073",
+            "holding": "\u4e2d\u592e 599.3-B28 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=T_EeAQAAIAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 148,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100917?current=149&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "NHK\u5e74\u9451, 2022",
+            "author": "\u65e5\u672c\u653e\u9001\u5354\u4f1a\u7de8",
+            "publisher": "\u65e5\u672c\u653e\u9001\u51fa\u7248\u5354\u4f1a 1954-",
+            "isbn": "9784140072776",
+            "holding": "\u4e2d\u592e Z69-N-2022 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=bHdWzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 149,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100688?current=150&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "Parentage and inheritance in the novels of Charles Dickens",
+            "author": "Anny Sadrin",
+            "publisher": "Cambridge University Press 1994",
+            "isbn": "0521390869",
+            "holding": "\u4e2d\u592e 930.28-D72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=slyBQgAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 150,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100924?current=151&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7dad\u65b0\u306e\u653f\u6cbb\u5909\u9769\u3068\u601d\u60f3 : \u4e00\u516b\u516d\u4e8c\u301c\u4e00\u516b\u4e5d\u4e94",
+            "author": "\u4f0a\u85e4\u4e4b\u96c4\u7de8\u8457",
+            "publisher": "\u30df\u30cd\u30eb\u30f4\u30a1\u66f8\u623f 2022/4",
+            "isbn": "9784623093014",
+            "holding": "\u4e2d\u592e 210.61-Me25-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=5G73zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 151,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100776?current=152&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9670\u8b00\u8ad6 : \u6c11\u4e3b\u4e3b\u7fa9\u3092\u63fa\u308b\u304c\u3059\u30e1\u30ab\u30cb\u30ba\u30e0",
+            "author": "\u79e6\u6b63\u6a39\u8457",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e 2022/10",
+            "isbn": "9784121027221",
+            "holding": "\u4e2d\u592e 081-C64-2722 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=txdgzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 152,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100793?current=153&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5b87\u6ca2\u5f18\u6587 : \u65b0\u305f\u306a\u308b\u8cc7\u672c\u4e3b\u7fa9\u306e\u9053\u3092\u6c42\u3081\u3066",
+            "author": "\u4f50\u3005\u6728\u5b9f\u8457",
+            "publisher": "\u8b1b\u8ac7\u793e 2022/10",
+            "isbn": "9784065300138",
+            "holding": "\u4e2d\u592e 081-Ko19-2682 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=FKhuzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 153,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100910?current=154&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6f22\u5b57\u7cfb\u6587\u5b57\u306e\u4e16\u754c : \u5b57\u4f53\u3068\u9020\u5b57\u6cd5/A study of sinoform scripts : principles of glyph creation",
+            "author": "\u65e5\u672c\u6f22\u5b57\u5b66\u4f1a\u7de8/\u5409\u5ddd\u96c5\u4e4b\u7de8\u96c6\u4e3b\u5e79/\u8352\u5ddd\u614e\u592a\u90ce [\u307b\u304b] \u57f7\u7b46",
+            "publisher": "\u82b1\u9ce5\u793e 2022/3",
+            "isbn": "9784909832481",
+            "holding": "\u4e2d\u592e 821.2-N77 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=N9z4zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 154,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100580?current=155&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u89b3\u70b9\u5225\u5b66\u7fd2\u72b6\u6cc1\u306e\u8a55\u4fa1\u57fa\u6e96\u8868 : \u5358\u5143\u306e\u8a55\u4fa1\u76ee\u6a19\u3068\u5224\u5b9a\u57fa\u6e96, \u5c0f\u5b66\u68216\u5e74",
+            "author": "\u5317\u5c3e\u502b\u5f66\u7de8\u96c6",
+            "publisher": "\u56f3\u66f8\u6587\u5316\u793e 1993/6",
+            "isbn": "4810032302",
+            "holding": "\u4e2d\u592e 375.17-Ki71-6 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 155,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100579?current=156&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u89b3\u70b9\u5225\u5b66\u7fd2\u72b6\u6cc1\u306e\u8a55\u4fa1\u57fa\u6e96\u8868 : \u5358\u5143\u306e\u8a55\u4fa1\u76ee\u6a19\u3068\u5224\u5b9a\u57fa\u6e96, \u5c0f\u5b66\u68215\u5e74",
+            "author": "\u5317\u5c3e\u502b\u5f66\u7de8\u96c6",
+            "publisher": "\u56f3\u66f8\u6587\u5316\u793e 1993/6",
+            "isbn": "4810032299",
+            "holding": "\u4e2d\u592e 375.17-Ki71-5 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 156,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100578?current=157&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u89b3\u70b9\u5225\u5b66\u7fd2\u72b6\u6cc1\u306e\u8a55\u4fa1\u57fa\u6e96\u8868 : \u5358\u5143\u306e\u8a55\u4fa1\u76ee\u6a19\u3068\u5224\u5b9a\u57fa\u6e96, \u5c0f\u5b66\u68214\u5e74",
+            "author": "\u5317\u5c3e\u502b\u5f66\u7de8\u96c6",
+            "publisher": "\u56f3\u66f8\u6587\u5316\u793e 1993/6",
+            "isbn": "4810032280",
+            "holding": "\u4e2d\u592e 375.17-Ki71-4 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 157,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100577?current=158&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u89b3\u70b9\u5225\u5b66\u7fd2\u72b6\u6cc1\u306e\u8a55\u4fa1\u57fa\u6e96\u8868 : \u5358\u5143\u306e\u8a55\u4fa1\u76ee\u6a19\u3068\u5224\u5b9a\u57fa\u6e96, \u5c0f\u5b66\u68213\u5e74",
+            "author": "\u5317\u5c3e\u502b\u5f66\u7de8\u96c6",
+            "publisher": "\u56f3\u66f8\u6587\u5316\u793e 1993/6",
+            "isbn": "4810032272",
+            "holding": "\u4e2d\u592e 375.17-Ki71-3 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 158,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100653?current=159&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6559\u80b2\u5fc3\u7406\u5b66",
+            "author": "\u4f9d\u7530\u65b0, \u7d9a\u6709\u6052\u7de8",
+            "publisher": "\u6709\u4fe1\u5802 1963/7",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 371.4-Y73 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 159,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100774?current=160&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4eac\u90fd\u306e\u98df\u6587\u5316 : \u6b74\u53f2\u3068\u98a8\u571f\u304c\u306f\u3050\u304f\u3093\u3060\u300c\u7f8e\u5473\u3057\u3044\u8857\u300d",
+            "author": "\u4f50\u85e4\u6d0b\u4e00\u90ce\u8457",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e 2022/10",
+            "isbn": "9784121027214",
+            "holding": "\u4e2d\u592e 081-C64-2721 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=xaZfzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 160,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100791?current=161&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6559\u990a\u306e\u8a9e\u6e90\u82f1\u5358\u8a9e",
+            "author": "\u6e05\u6c34\u5efa\u4e8c\u8457",
+            "publisher": "\u8b1b\u8ac7\u793e 2022/10",
+            "isbn": "9784065298657",
+            "holding": "\u4e2d\u592e 081-Ko19-2681 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=7aJhzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 161,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100770?current=162&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8fd1\u4ee3\u65e5\u672c\u5916\u4ea4\u53f2 : \u5e55\u672b\u306e\u958b\u56fd\u304b\u3089\u592a\u5e73\u6d0b\u6226\u4e89\u307e\u3067",
+            "author": "\u4f50\u3005\u6728\u96c4\u4e00\u8457",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e 2022/10",
+            "isbn": "9784121027191",
+            "holding": "\u4e2d\u592e 081-C64-2719 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=RFdgzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 162,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100921?current=163&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9ad8\u9f62\u671f\u306e\u4f4f\u307e\u3044\u3068\u30ea\u30b9\u30af : \u81ea\u5b85\u306b\u4f4f\u307f\u7d9a\u3051\u308b\u305f\u3081\u306b",
+            "author": "\u672c\u6fa4\u5df3\u4ee3\u5b50\u7de8\u8457/\u6d88\u8cbb\u751f\u6d3b\u30de\u30b9\u30bf\u30fc\u4ecb\u8b77\u554f\u984c\u7814\u7a76\u4f1a\u8457",
+            "publisher": "\u4fe1\u5c71\u793e 2022/5",
+            "isbn": "9784797286854",
+            "holding": "\u4e2d\u592e 365.3-Mo93 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u8cb8\u51fa\u4e2d(\u8fd4\u5374\u4e88\u5b9a: 2022/12/06)",
+            "imagesrc": "https://books.google.com/books/content?id=RCEuzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 163,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100714?current=164&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5b50\u3069\u3082\u3092\u751f\u304b\u3059\u7b97\u6570\u79d1\u8a55\u4fa1\u306e\u30dd\u30a4\u30f3\u30c8 : \u8a3a\u65ad30\u5e74\u9593\u306e\u7d99\u7d9a\u7814\u7a76\u304b\u3089\u306e\u63d0\u8a00",
+            "author": "\u7c73\u7530\u4fee\u7de8",
+            "publisher": "\u7acb\u6559\u66f8\u9662 1982/11",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.412-Y82 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 164,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100722?current=165&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u96c7\u7528\u5f62\u614b\u9593\u683c\u5dee\u306e\u5236\u5ea6\u5206\u6790 : \u30b8\u30a7\u30f3\u30c0\u30fc\u8996\u89d2\u304b\u3089\u306e\u5206\u696d\u3068\u79e9\u5e8f\u306e\u5f62\u6210\u53f2",
+            "author": "\u79bf\u3042\u3084\u7f8e\u8457",
+            "publisher": "\u30df\u30cd\u30eb\u30f4\u30a1\u66f8\u623f 2022/3",
+            "isbn": "9784623093960",
+            "holding": "\u4e2d\u592e 366.8-Ka42 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=O_zuzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 165,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100734?current=166&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u3053\u308c\u304b\u3089\u6559\u5e2b\u306b\u306a\u308b\u4eba\u306e\u305f\u3081\u306e\u7b97\u6570\u3068\u6570\u5b66",
+            "author": "\u67f4\u7530\u9332\u6cbb, \u6d66\u7530\u654f\u592b\u8457",
+            "publisher": "\u9ece\u660e\u66f8\u623f 1994/7",
+            "isbn": "4654015574",
+            "holding": "\u4e2d\u592e 375.41-Sh18 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 166,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100715?current=167&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u79d1\u6559\u80b2",
+            "author": "\u5ca1\u672c\u5c1a\u5b50, \u4e8c\u6fa4\u5584\u7d00, \u6708\u5ca1\u5353\u4e5f\u7de8\u8457",
+            "publisher": "\u30df\u30cd\u30eb\u30f4\u30a1\u66f8\u623f 2018/10",
+            "isbn": "9784623081998",
+            "holding": "\u4e2d\u592e 370.8-A94-3 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=q8gpvQEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 167,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100720?current=168&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u79d1\u6559\u80b2\u5b66\u8981\u8ad6, \u5c0f\u5b66\u6821\u7de8",
+            "author": "\u5b66\u6821\u6559\u80b2\u6570\u5b66\u7814\u7a76\u4f1a\u8457",
+            "publisher": "\u307f\u305a\u3046\u307f\u66f8\u623f 1981/9",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.412-G16 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 168,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100752?current=169&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u79d1\u3067\u5b66\u3076\u529b\u3092\u3069\u3046\u80b2\u3066\u308b\u304b",
+            "author": "\u798f\u5ca1\u770c\u5c0f\u5b66\u6821\u7b97\u6570\u6559\u80b2\u7814\u7a76\u4f1a\u7de8\u8457",
+            "publisher": "\u65e5\u672c\u6559\u80b2\u7814\u7a76\u30bb\u30f3\u30bf\u30fc 1990/7",
+            "isbn": "4890260765",
+            "holding": "\u4e2d\u592e 375.412-F82 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 169,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100727?current=170&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u79d1\u3086\u3055\u3076\u308a\u767a\u554f",
+            "author": "\u91cd\u7530\u7d14\u5c2d [\u307b\u304b] \u8457",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1976/4",
+            "isbn": "4185250045",
+            "holding": "\u4e2d\u592e 375.412-Sh29 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 170,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100754?current=171&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u6559\u80b2\u3092\u8003\u3048\u308b21\u306e\u63d0\u8a00 : \u7b97\u6570\u6388\u696d\u306e\u6761\u4ef6",
+            "author": "\u5168\u56fd\u7b97\u6570\u6388\u696d\u7814\u7a76\u4f1a\u4f01\u753b\u30fb\u7de8\u96c6",
+            "publisher": "\u6771\u6d0b\u9928\u51fa\u7248\u793e 1998/8",
+            "isbn": "449101454X",
+            "holding": "\u4e2d\u592e 375.412-Sa66-7 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=YKwqNwAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 171,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100651?current=172&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u6307\u5c0e\u306e\u672c\u8cea\u3068\u6307\u5c0e\u6cd5\u306e\u6539\u5584",
+            "author": "\u7247\u6850\u91cd\u7537\u8457",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1977/10",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.412-Ka81-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 172,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100652?current=173&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u6307\u5c0e\u6cd5\u306e\u30a2\u30a4\u30c7\u30a2",
+            "author": "\u7247\u6850\u91cd\u7537\u8457",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1977/10",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.412-Ka81-2 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 173,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100750?current=174&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7b97\u6570\u306b\u304a\u3051\u308b\u7d71\u5408\u7684\u306a\u8003\u3048\u3068\u305d\u306e\u6307\u5c0e",
+            "author": "\u4e09\u91cd\u770c\u660e\u548c\u753a\u7acb\u658e\u5bae\u5c0f\u5b66\u6821\u8457",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1971",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.412-Mi15 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 174,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100697?current=175&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5150\u7ae5\u6559\u80b2\u306e\u672c\u5168\u60c5\u5831, 2006-2021",
+            "author": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4\u682a\u5f0f\u4f1a\u793e\u7de8",
+            "publisher": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4 2022/7",
+            "isbn": "9784816929298",
+            "holding": "\u4e2d\u592e 376.2-N71-2006/21 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=lCU5zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 175,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100772?current=176&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u53f8\u99ac\u907c\u592a\u90ce\u306e\u6642\u4ee3 : \u6b74\u53f2\u3068\u5927\u8846\u6559\u990a\u4e3b\u7fa9",
+            "author": "\u798f\u9593\u826f\u660e\u8457",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e 2022/10",
+            "isbn": "9784121027207",
+            "holding": "\u4e2d\u592e 081-C64-2720 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=iKxfzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 176,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100749?current=177&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5f31\u70b9\u514b\u670d\u5927\u5b66\u751f\u306e\u89e3\u6790\u529b\u5b66",
+            "author": "\u7551\u6d69\u4e4b\u8457",
+            "publisher": "\u6771\u4eac\u56f3\u66f8 2022/7",
+            "isbn": "9784489023910",
+            "holding": "\u4e2d\u592e 423.35-H41 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=LFFFzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 177,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100668?current=178&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5199\u771f\u30ec\u30d5\u30a1\u30ec\u30f3\u30b9\u4e8b\u5178, \u4e8b\u6545\u30fb\u4e8b\u4ef6\u7d1b\u4e89\u7bc71991-2021",
+            "author": "\u91ce\u53e3\u6b66\u609f\u7de8",
+            "publisher": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4 2022/7",
+            "isbn": "9784816929250",
+            "holding": "\u4e2d\u592e 748.031-N71 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=wKQ3zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 178,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100716?current=179&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30b7\u30e3\u30eb\u30eb\u30fb\u30c9\u30b4\u30fc\u30eb\u4f1d, \u4e0a",
+            "author": "\u30b8\u30e5\u30ea\u30a2\u30f3\u30fb\u30b8\u30e3\u30af\u30bd\u30f3\u8457/\u5317\u4ee3\u7f8e\u548c\u5b50\u8a33",
+            "publisher": "\u767d\u6c34\u793e 2022/6",
+            "isbn": "9784560094303",
+            "holding": "\u4e2d\u592e 289-D53-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=LA7-zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 179,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100742?current=180&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u81ea\u7531\u30d0\u30ba\u3092\u53d6\u308a\u5165\u308c\u305f\u6388\u696d\u306e\u9032\u3081\u65b9",
+            "author": "\u5e02\u5ddd\u5343\u79cb\u7de8\u8457",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1987/6",
+            "isbn": "4182299094",
+            "holding": "\u4e2d\u592e 375.1-I14 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 180,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100733?current=181&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5c0f\u5b66\u6821\u7b97\u6570\u79d1\u6559\u80b2",
+            "author": "\u7b97\u6570\u79d1\u6559\u80b2\u7814\u7a76\u4f1a\u7de8\u8457",
+            "publisher": "\u5b66\u82b8\u56f3\u66f8 2001/2",
+            "isbn": "4761603526",
+            "holding": "\u4e2d\u592e 375.412-Sa66 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=LaLWPQAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 181,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100735?current=182&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5c0f\u5b66\u6821\u7b97\u6570\u79d1\u306e\u6388\u696d\u8a08\u753b, 1\u5e74",
+            "author": "\u5ddd\u53e3\u5ef7\u76e3\u4fee/\u82b1\u6751\u90c1\u96c4\u7de8",
+            "publisher": "\u56fd\u571f\u793e 1970",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.412-H27-1 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 182,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100764?current=183&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u662d\u548c\u306e\u5927\u6226\u3068\u3042\u306e\u6771\u4eac\u88c1\u5224",
+            "author": "\u5e73\u5ddd\u7950\u5f18\u8457",
+            "publisher": "\u6cb3\u51fa\u66f8\u623f\u65b0\u793e 2022/3",
+            "isbn": "9784309030296",
+            "holding": "\u4e2d\u592e 210.75-H64 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=gtnMzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 183,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100705?current=184&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65b0\u6559\u80b2\u8ab2\u7a0b\u3068\u305d\u306e\u767a\u5c55\u306e\u305f\u3081\u306e\u8003\u5bdf",
+            "author": "\u5e73\u5ca1\u5fe0 [\u307b\u304b] \u57f7\u7b46",
+            "publisher": "\u6771\u6d0b\u9928\u51fa\u7248\u793e 1989/5",
+            "isbn": "4491006814",
+            "holding": "\u4e2d\u592e 375.412-H67 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=2Gg3AAAAMAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 184,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100710?current=185&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65b0\u6559\u8077\u8ab2\u7a0b\u57fa\u790e\u8b1b\u5ea7 : \u5c0f\u5b66\u6821\u7b97\u6570",
+            "author": "\u5bae\u5d0e\u52dd\u5f10\u4ed6\u8457",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1988/3",
+            "isbn": "4185428014",
+            "holding": "\u4e2d\u592e 375.412-Mi88 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 185,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100708?current=186&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u65b0\u7b97\u6570\u6307\u5c0e\u306e\u5b9f\u8df5\u3068\u9032\u5c55\u306e\u305f\u3081\u306e\u30dd\u30a4\u30f3\u30c8",
+            "author": "\u6749\u5ca1\u53f8\u99ac [\u307b\u304b] \u57f7\u7b46",
+            "publisher": "\u6771\u6d0b\u9928\u51fa\u7248\u793e 1990/6",
+            "isbn": "4491007640",
+            "holding": "\u4e2d\u592e 375.412-Su44 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 186,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100719?current=187&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6c34\u9053\u65b9\u5f0f\u3078\u306e\u7591\u554f : \u65b0\u3057\u3044\u6570\u5b66\u6559\u80b2\u89b3\u306e\u78ba\u7acb",
+            "author": "\u5ca1\u90e8\u9032\u8457",
+            "publisher": "\u6559\u80b2\u7814\u7a76\u793e 1984/8",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.41-O37 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 187,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100761?current=188&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6570\u5b66\u66f8\u306e\u8aad\u307f\u304b\u305f",
+            "author": "\u7af9\u5c71\u7f8e\u5b8f\u8457",
+            "publisher": "\u68ee\u5317\u51fa\u7248 2022/3",
+            "isbn": "9784627082816",
+            "holding": "\u4e2d\u592e 410-Ta68 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=at3ezgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 188,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100743?current=189&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6570\u5b66\u7684\u8003\u3048\u3068\u305d\u306e\u6307\u5c0e, \u5c0f\u5b66\u6821\u7de8",
+            "author": "\u65e5\u672c\u6570\u5b66\u6559\u80b2\u4f1a\u7de8",
+            "publisher": "\u660e\u6cbb\u56f3\u66f8\u51fa\u7248 1969-1971",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 375.41-N77 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 189,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100712?current=190&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6570\u5b66\u306e\u3068\u3073\u3089",
+            "author": "\u9ed2\u7530\u5b5d\u90ce [\u307b\u304b] \u8457",
+            "publisher": "\u65e5\u672c\u66f8\u7c4d 1983/4",
+            "isbn": "4819901400",
+            "holding": "\u4e2d\u592e 375.413-Ku72 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 190,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100746?current=191&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30b9\u30dd\u30fc\u30c4\u30af\u30e9\u30a4\u30df\u30f3\u30b0\u306e\u30b3\u30f3\u30c7\u30a3\u30b7\u30e7\u30cb\u30f3\u30b0",
+            "author": "\u6709\u5409\u4e0e\u5fd7\u6075, \u91ce\u53e3\u5553\u4ee3\u8457",
+            "publisher": "\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb\u30fb\u30de\u30ac\u30b8\u30f3\u793e 2022/6",
+            "isbn": "9784583115061",
+            "holding": "\u4f53\u82b8 786.16-A78 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=94s5zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 191,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100654?current=192&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u9752\u5e74\u5fc3\u7406",
+            "author": "\u5c0f\u53e3\u5fe0\u5f66, \u5cf6\u7530\u4e00\u7537\u7de8\u8457",
+            "publisher": "\u5b66\u6587\u793e 1973/1",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 371.47-O26 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 192,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100711?current=193&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e16\u754c\u4e00\u308f\u304b\u308a\u3084\u3059\u3044\u52d5\u753b\u5236\u4f5c\u306e\u6559\u79d1\u66f8",
+            "author": "\u5c0f\u5cf6\u771f\u4e5f\u8457",
+            "publisher": "\u6280\u8853\u8a55\u8ad6\u793e 2022/5",
+            "isbn": "9784297127435",
+            "holding": "\u56f3\u60c52\u968e\u95b2\u89a7\u5ba4 746.7-Ko39 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=9sjezgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 193,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100783?current=194&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e16\u754c\u30a4\u30f3\u30d5\u30ec\u306e\u8b0e",
+            "author": "\u6e21\u8fba\u52aa\u8457",
+            "publisher": "\u8b1b\u8ac7\u793e 2022/10",
+            "isbn": "9784065294383",
+            "holding": "\u4e2d\u592e 081-Ko19-2679 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=m-pmzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 194,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100662?current=195&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e16\u754c\u4eba\u53e3\u4e88\u6e2c1950\u21922100, \u7b2c1\u5206\u518a, 2022\u5e74\u6539\u8a02\u7248",
+            "author": "\u56fd\u969b\u9023\u5408\u7d4c\u6e08\u793e\u4f1a\u5c40\u4eba\u53e3\u90e8\u7de8/\u539f\u66f8\u623f\u7de8\u96c6\u90e8\u8a33",
+            "publisher": "\u539f\u66f8\u623f 2022/10",
+            "isbn": "9784562072255",
+            "holding": "\u4e2d\u592e 358-Ko51-1 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=4kRZzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 195,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100663?current=196&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e16\u754c\u4eba\u53e3\u4e88\u6e2c1950\u21922100, \u7b2c2\u5206\u518a, 2022\u5e74\u6539\u8a02\u7248",
+            "author": "\u56fd\u969b\u9023\u5408\u7d4c\u6e08\u793e\u4f1a\u5c40\u4eba\u53e3\u90e8\u7de8/\u539f\u66f8\u623f\u7de8\u96c6\u90e8\u8a33",
+            "publisher": "\u539f\u66f8\u623f 2022/10",
+            "isbn": "9784562072255",
+            "holding": "\u4e2d\u592e 358-Ko51-2 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=4kRZzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 196,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100700?current=197&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u8aac\u8a71\u96c6\u5185\u5bb9\u7dcf\u89a7, \u4ecf\u6559\u7de8",
+            "author": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4\u7de8\u96c6",
+            "publisher": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4 2022/6",
+            "isbn": "9784816929274",
+            "holding": "\u4e2d\u592e 184.9-N71 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=_zcrzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 197,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100683?current=198&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5168\u56fd\u6b74\u4ee3\u77e5\u4e8b\u30fb\u5e02\u9577\u7dcf\u89a7",
+            "author": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4\u682a\u5f0f\u4f1a\u793e\u7de8\u96c6",
+            "publisher": "\u65e5\u5916\u30a2\u30bd\u30b7\u30a8\u30fc\u30c4 2022/7",
+            "isbn": "9784816929304",
+            "holding": "\u4e2d\u592e 318.035-N71 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=wTY4zwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 198,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100806?current=199&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u305d\u306e\u5bfe\u5fdc\u3067\u306f\u4f1a\u793e\u304c\u50be\u304f : \u30d7\u30ed\u304c\u6559\u3048\u308b\u5371\u6a5f\u7ba1\u7406\u6559\u5ba4",
+            "author": "\u7530\u4e2d\u512a\u4ecb\u8457",
+            "publisher": "\u65b0\u6f6e\u793e 2022/10",
+            "isbn": "9784106109706",
+            "holding": "\u4e2d\u592e 081-Sh61-970 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=EO5fzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 199,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100912?current=200&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D2%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30c0\u30a4\u30af\u30b7\u30b9\u8b1b\u7fa9",
+            "author": "Charles J.Fillmore\u8457/\u6fa4\u7530\u6df3\u8a33",
+            "publisher": "\u958b\u62d3\u793e 2022/4",
+            "isbn": "9784758923705",
+            "holding": "\u4e2d\u592e 801-F26 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=R-b4zgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 200,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100649?current=201&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4e2d\u5b66\u6821\u6570\u5b66\u89b3\u70b9\u5225\u5b66\u7fd2\u72b6\u6cc1\u306e\u8a55\u4fa1\u57fa\u6e96\u8868 : \u5358\u5143\u306e\u8a55\u4fa1\u76ee\u6a19\u3068\u5224\u5b9a\u57fa\u6e96",
+            "author": "\u5317\u5c3e\u502b\u5f66,\u9234\u6728\u826f\u9686\u7de8\u96c6",
+            "publisher": "\u56f3\u66f8\u6587\u5316\u793e 1994/5",
+            "isbn": "4810042367",
+            "holding": "\u4e2d\u592e 375.413-Ki71 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 201,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100718?current=202&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u52d5\u6a5f\u3065\u3051\u7814\u7a76\u306b\u57fa\u3065\u304f\u82f1\u8a9e\u6307\u5c0e",
+            "author": "\u897f\u7530\u7406\u6075\u5b50\u7de8\u8457",
+            "publisher": "\u5927\u4fee\u9928\u66f8\u5e97 2022/5",
+            "isbn": "9784469246599",
+            "holding": "\u4e2d\u592e 830.7-N81 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=pdzvzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 202,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100780?current=203&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5fb3\u5ddd\u5bb6\u5eb7\u306e\u6c7a\u65ad : \u6876\u72ed\u9593\u304b\u3089\u95a2\u30f6\u539f\u3001\u5927\u5742\u306e\u9663\u307e\u306710\u306e\u9078\u629e",
+            "author": "\u672c\u591a\u9686\u6210\u8457",
+            "publisher": "\u4e2d\u592e\u516c\u8ad6\u65b0\u793e 2022/10",
+            "isbn": "9784121027238",
+            "holding": "\u4e2d\u592e 081-C64-2723 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=oDlgzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 203,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100800?current=204&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30c9\u30fc\u30d1\u30df\u30f3\u4e2d\u6bd2",
+            "author": "\u30a2\u30f3\u30ca\u30fb\u30ec\u30f3\u30d6\u30b1\u8457/\u6069\u8535\u7d62\u5b50\u8a33",
+            "publisher": "\u65b0\u6f6e\u793e 2022/10",
+            "isbn": "9784106109690",
+            "holding": "\u4e2d\u592e 081-Sh61-969 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=tuRfzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 204,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100796?current=205&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30d0\u30ab\u3068\u7121\u77e5 : \u4eba\u9593\u3001\u3053\u306e\u4e0d\u90fd\u5408\u306a\u751f\u304d\u3082\u306e",
+            "author": "\u6a58\u73b2\u8457",
+            "publisher": "\u65b0\u6f6e\u793e 2022/10",
+            "isbn": "9784106109683",
+            "holding": "\u4e2d\u592e 081-Sh61-968 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=JihmzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 205,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100788?current=206&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u3075\u3057\u304e\u306a\u4e2d\u56fd",
+            "author": "\u8fd1\u85e4\u5927\u4ecb\u8457",
+            "publisher": "\u8b1b\u8ac7\u793e 2022/10",
+            "isbn": "9784065300121",
+            "holding": "\u4e2d\u592e 081-Ko19-2680 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=BFVuzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 206,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100748?current=207&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5bcc\u58eb\u5c71\u306f\u3044\u3064\u5674\u706b\u3059\u308b\u306e\u304b? : \u706b\u5c71\u306e\u3057\u304f\u307f\u3068\u305d\u306e\u4e0d\u601d\u8b70",
+            "author": "\u842c\u5e74\u4e00\u525b\u8457",
+            "publisher": "\u7b51\u6469\u66f8\u623f 2022/7",
+            "isbn": "9784480684325",
+            "holding": "\u4e2d\u592e 453.821-Ma45 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=gkEuzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 207,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100918?current=208&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u4f0f\u898b\u5929\u7687\u5fa1\u88fd\u306e\u7814\u7a76",
+            "author": "\u4f50\u4f50\u6728\u6cbb\u7db1\u8457",
+            "publisher": "\u4eba\u6587\u66f8\u9662 1943/12",
+            "isbn": "",
+            "holding": "\u4e2d\u592e 911.142-F96 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": ""
+        }
+    },
+    {
+        "index": 208,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100758?current=209&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30d5\u30ea\u30fc\u30ba\u306e\u6570\u5b66\u30b9\u30b1\u30c3\u30c1\u5e16 : \u6570\u3068\u5e7e\u4f55\u306e\u304d\u3089\u3081\u304d",
+            "author": "\u897f\u5c71\u4eab\u8457",
+            "publisher": "\u5171\u7acb\u51fa\u7248 2022/7",
+            "isbn": "9784320114715",
+            "holding": "\u4e2d\u592e 410-N87 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=ZleKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl"
+        }
+    },
+    {
+        "index": 209,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100741?current=210&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u7de8\u96c6\u8005\u30c7\u30a3\u30c9\u30ed : \u4ef2\u9593\u3068\u6b69\u304f\u300e\u767e\u79d1\u5168\u66f8\u300f\u306e\u68ee/Diderot \u00e9diteur : promenade entre amis dans la for\u00eat de l'Encyclop\u00e9die",
+            "author": "\u9df2\u898b\u6d0b\u4e00\u8457",
+            "publisher": "\u5e73\u51e1\u793e 2022/4",
+            "isbn": "9784582703634",
+            "holding": "\u4e2d\u592e 035-D73 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=JH7tzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 210,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100919?current=211&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u653e\u5c04\u7d20\u904e\u7a0b\u306e\u57fa\u790e",
+            "author": "\u4e2d\u6751\u6587\u9686[\u307b\u304b]\u8457",
+            "publisher": "\u65e5\u672c\u8a55\u8ad6\u793e 2022/11",
+            "isbn": "9784535603431",
+            "holding": "\u4e2d\u592e 440.12-N37 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=3xtwzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 211,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100729?current=212&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u300c\u5b66\u3073\u65b9\u30fb\u8003\u3048\u65b9\u300d\u3092\u3081\u3056\u3059\u7b97\u6570\u6307\u5c0e",
+            "author": "\u6749\u5ca1\u53f8\u99ac\u8457",
+            "publisher": "\u6771\u6d0b\u9928\u51fa\u7248\u793e 2002/4",
+            "isbn": "4491017735",
+            "holding": "\u4e2d\u592e 375.412-Su44 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=oTQkNwAACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 212,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100713?current=213&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u30e1\u30bf\u30d0\u30fc\u30b9 : \u3055\u3088\u306a\u3089\u30a2\u30c8\u30e0\u306e\u6642\u4ee3",
+            "author": "\u52a0\u85e4\u76f4\u4eba\u8457",
+            "publisher": "\u96c6\u82f1\u793e 2022/4",
+            "isbn": "9784087880755",
+            "holding": "\u4e2d\u592e 547.483-Ka86 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=qHDvzgEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 213,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100665?current=214&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u6a21\u7bc4\u516d\u6cd5, \u4ee4\u548c5\u5e74\u7248",
+            "author": "\u5224\u4f8b\u516d\u6cd5\u7de8\u4fee\u59d4\u54e1\u4f1a\u7de8",
+            "publisher": "\u4e09\u7701\u5802 2022/11",
+            "isbn": "9784385156125",
+            "holding": "\u4e2d\u592e 320.91-Mo17-2023 \u53c2\u8003",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=4lNgzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 214,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100808?current=215&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u5c71\u5965\u30d3\u30b8\u30cd\u30b9 : \u4e00\u6d41\u306e\u7530\u820e\u3092\u5275\u9020\u3059\u308b",
+            "author": "\u85fb\u8c37\u3086\u304b\u308a\u8457",
+            "publisher": "\u65b0\u6f6e\u793e 2022/10",
+            "isbn": "9784106109713",
+            "holding": "\u4e2d\u592e 081-Sh61-971 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u8cb8\u51fa\u4e2d(0\u4eba\u4e88\u7d04\u4e2d)",
+            "imagesrc": "https://books.google.com/books/content?id=EwNgzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 215,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100755?current=216&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u96e2\u6563\u6570\u5b66\u3068\u305d\u306e\u5fdc\u7528 : \u5de5\u5b66\u57fa\u790e, \u7b2c2\u7248",
+            "author": "\u5fb3\u5c71\u8c6a\u8457",
+            "publisher": "\u6570\u7406\u5de5\u5b66\u793e, \u30b5\u30a4\u30a8\u30f3\u30b9\u793e (\u767a\u58f2) 2022/7",
+            "isbn": "9784864810883",
+            "holding": "\u4e2d\u592e 410-To45 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u914d\u67b6\u6e08",
+            "imagesrc": "https://books.google.com/books/content?id=WAAvzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    },
+    {
+        "index": 216,
+        "data": {
+            "link": "https://www.tulips.tsukuba.ac.jp/opac/volume/4100751?current=217&total=217&trans_url=%2Fopac%2Fsearch%3Farrivedwithin%3D1%26base_url%3Dhttps%253A%252F%252Fwww.tulips.tsukuba.ac.jp%26count%3D100%26defaultpage%3D3%26defaulttarget%3Dlocal%26order%3Darrival_date_d%26searchmode%3Dcomplex%26type%255B%255D%3Dbook",
+            "title": "\u91cf\u5b50\u529b\u5b66\u306e\u8af8\u89e3\u91c8 : \u30d1\u30e9\u30c9\u30af\u30b9\u3092\u3044\u304b\u306b\u3057\u3066\u89e3\u6d88\u3059\u308b\u304b",
+            "author": "\u767d\u4e95\u4ec1\u4eba\u8457",
+            "publisher": "\u68ee\u5317\u51fa\u7248 2022/7",
+            "isbn": "9784627157712",
+            "holding": "\u4e2d\u592e 421.3-Sh81 \u4e00\u822c\u56f3\u66f8",
+            "status": "\u8cb8\u51fa\u4e2d(0\u4eba\u4e88\u7d04\u4e2d)",
+            "imagesrc": "https://books.google.com/books/content?id=BEouzwEACAAJ&printsec=frontcover&img=1&zoom=5"
+        }
+    }
+]
